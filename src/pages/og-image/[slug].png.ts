@@ -37,7 +37,7 @@ const markup = (title: string, pubDate: string) =>
 		</div>
 		<div tw="flex items-center justify-between w-full p-10 border-t border-[#2bbc89] text-xl">
 			<div tw="flex items-center">
-				<svg height="60" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272 480">
+				<svg height="60" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250">
 					<rect x="0" y="0" width="250" height="62.5" fill="#FF5D01" />
           <rect x="0" y="125" width="250" height="62.5" fill="#FF5D01" />
           <!-- Green bands -->
