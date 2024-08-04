@@ -1,0 +1,16 @@
+<svg
+  aria-hidden="true"
+  class="me-3 h-10 w-6 sm:absolute sm:start-[-4.5rem] sm:me-0 sm:h-20 sm:w-12"
+  fill="none"
+  focusable="false"
+  viewBox="0 0 250 250"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>Logo</title>
+  <!-- Orange bands -->
+  <rect x="0" y="0" width="250" height="62.5" fill="#FF5D01" />
+  <rect x="0" y="125" width="250" height="62.5" fill="#FF5D01" />
+  <!-- Green bands -->
+  <rect x="0" y="62.5" width="250" height="62.5" fill="#53C68C" />
+  <rect x="0" y="187.5" width="250" height="62.5" fill="#53C68C" />
+</svg>
