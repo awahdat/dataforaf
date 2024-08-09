@@ -20,7 +20,7 @@ export default defineConfig({
 		expressiveCode(expressiveCodeOptions),
 		icon(),
 		tailwind({
-			applyBaseStyles: true,
+			applyBaseStyles: false,
 			nesting: true,
 		}),
 		sitemap(),
