@@ -533,7 +533,7 @@ packages:
   '@iconify-json/mdi@1.1.67':
     resolution: {integrity: sha512-00nllHES8hyACwIfgySlQgAE6MKgpr2wsKfpifMiZWZ9aXC5l4Jb0lR3lJSWwXgOW6kzAOdzC3T+2VOfBBZ13A==}
 
-  '@iconify/tools@3.0.7':
+  '@iconify/tools@4.0.4':
     resolution: {integrity: sha512-DxfhFLMnooS34dHelpGUnnYrxLZHs0czC1CgrBhAbuL8ddVzBb2VEQm8kh9qGh7A34qeXAB5iSHH3A72rAaFrg==}
 
   '@iconify/types@2.0.0':
@@ -4617,7 +4617,7 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify/tools@3.0.7':
+  '@iconify/tools@4.0.4':
     dependencies:
       '@iconify/types': 2.0.0
       '@iconify/utils': 2.1.22
@@ -5428,7 +5428,7 @@ snapshots:
 
   astro-icon@1.1.0:
     dependencies:
-      '@iconify/tools': 3.0.7
+      '@iconify/tools': 4.0.4
       '@iconify/types': 2.0.0
       '@iconify/utils': 2.1.22
     transitivePeerDependencies:
