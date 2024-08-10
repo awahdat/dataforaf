@@ -7,7 +7,6 @@ import icon from "astro-icon";
 import fs from "fs";
 import rehypeExternalLinks from "rehype-external-links";
 import remarkUnwrapImages from "remark-unwrap-images";
-import * as cheerio from "cheerio";
 
 import { expressiveCodeOptions } from "./src/site.config";
 import { remarkReadingTime } from "./src/utils/remark-reading-time";
@@ -19,7 +18,9 @@ export default defineConfig({
 	},
 	integrations: [
 		expressiveCode(expressiveCodeOptions),
-		icon(),
+		icon({
+			collection: mdi,
+		}),
 		tailwind({
 			applyBaseStyles: false,
 			nesting: true,
