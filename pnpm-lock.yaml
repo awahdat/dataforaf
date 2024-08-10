@@ -135,6 +135,9 @@ importers:
       typescript:
         specifier: ^5.5.3
         version: 5.5.3
+      cheerio:
+        specifier: 1.0.0
+        version: 1.0.0  
 
 packages:
 
