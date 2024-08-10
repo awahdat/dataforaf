@@ -18,11 +18,9 @@ export default defineConfig({
 	},
 	integrations: [
 		expressiveCode(expressiveCodeOptions),
-		icon({
-			collection: mdi,
-		}),
+		icon(),
 		tailwind({
-			applyBaseStyles: false,
+			applyBaseStyles: true,
 			nesting: true,
 		}),
 		sitemap(),
