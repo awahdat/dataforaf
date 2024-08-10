@@ -26,7 +26,9 @@ importers:
       astro-expressive-code:
         specifier: ^0.35.3
         version: 0.35.3(astro@4.12.1(@types/node@20.14.11)(typescript@5.5.3))
-      
+      astro-icon:
+        specifier: ^1.1.0
+        version: 1.1.0
       cssnano:
         specifier: ^7.0.4
         version: 7.0.4(postcss@8.4.39)
