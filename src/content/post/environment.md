@@ -11,7 +11,12 @@ tags: ["environment", "pollution", "natural disasters"]
 <iframe title="Exposure to particulate matter air pollution, 2000 to 2022" aria-label="Interactive line chart" id="datawrapper-chart-lia5T" src="https://datawrapper.dwcdn.net/lia5T/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="496" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 <br />
-This chart
+<ul>
+  <li>Over the 22 years from 2000 to 2022, Afghanistan's exposure to particulate matter has shown considerable fluctuation, with no consistent downward trend. This indicates ongoing challenges in managing air pollution, with significant variability that could be influenced by both natural and human-induced factors.</li>
+  <li>The World Health Organization (WHO) recommends that annual average concentrations of PM2.5 should not exceed 5 micrograms per cubic meter (µg/m³). </li>
+  <li>Levels of 35 µg/m³ or higher for 24 hours can cause problems for people with pre-existing health conditions issues like asthma.</li>
+  <li>Long-term exposure to PM2.5 levels above 10 µg/m³ is associated with increased mortality rates, cardiovascular and respiratory diseases, and lung cancer.</li>
+</ul>
 
 ---
 
