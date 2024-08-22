@@ -43,27 +43,48 @@ tags: ["health"]
 <iframe title="Life expectancy at birth in Afghanistan (years), 2000 to 2021" aria-label="Column Chart" id="datawrapper-chart-F69MR" src="https://datawrapper.dwcdn.net/F69MR/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 <br />
-This chart
+<ul>
+  <li>From 2000 to 2019, life expectancy at birth in Afghanistan steadily increased from 55.30 years to 63.57 years, reflecting possible improvements in healthcare, reduced infant mortality, and better living conditions.</li>
+  <li>After reaching a peak of 63.57 years in 2019, life expectancy dropped to 61.98 years by 2021. This decline coincides with political instability, increase in poverty and unemployment, and the COVID-19 pandemic, which likely strained the healthcare system and overall living conditions.
+</li>
+  <li>The early 2000s saw significant gains in life expectancy, rising from 55.30 years in 2000 to 60.36 years by 2009. This period is also marked by substantial international intervention and development efforts across various sectors of Afghanistan, including public health.
+</li>
+</ul>
 
 ---
 
 <iframe title="Maternal mortality rate (per 100,000 births), 2000 to 2020" aria-label="Scatter Plot" id="datawrapper-chart-tp3Dy" src="https://datawrapper.dwcdn.net/tp3Dy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="452" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 <br />
-This chart
+<ul>
+  <li>Afghanistan saw a remarkable decrease in the maternal mortality rate from 1,346 deaths per 100,000 births in 2000 to 620.4 deaths per 100,000 births in 2020. This nearly 54% reduction reflects improved healthcare access, particularly in maternal care.</li>
+  <li>The decline in maternal mortality has coincided with a reduction in the poverty ratio at $2.15/day, which dropped from 61.7% in 2000 to 31.04% in 2020. This suggests that economic improvements and poverty alleviation efforts may have contributed to better maternal health outcomes.
+</li>
+  <li>While the maternal mortality rate has continued to decline, the rate of improvement slowed in the 2010s, with a decrease from 883.7 in 2011 to 620.4 in 2020. Similarly, the poverty ratio saw a less dramatic reduction during this period, indicating potential challenges in sustaining rapid progress in health and economic development.</li>
+</ul>
 
 ---
 
 <iframe title="Infant mortality rate (per 1,000 live births), 2000 to 2022" aria-label="Scatter Plot" id="datawrapper-chart-CmJwb" src="https://datawrapper.dwcdn.net/CmJwb/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="451" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 <br />
-This chart
+<ul>
+  <li>Afghanistan's infant mortality rate decreased significantly from 131.64 deaths per 1,000 births in 2000 to 57.68 deaths in 2022. This more than 56% reduction highlights improvements in healthcare services, especially in neonatal and maternal care.</li>
+  <li>The substantial decline in infant mortality was accompanied by a decrease in the poverty ratio at $2.15/day, which fell from 61.7% in 2000 to 48.22% in 2022. The parallel trends suggest that economic upliftment and poverty reduction may have contributed to the improved survival rates of infants.
+</li>
+  <li>Although infant mortality has steadily decreased, the poverty ratio saw an uptick from 28.59% in 2019 to 48.22% in 2022. This recent rise in poverty levels contrasts with the continued decrease in infant mortality, indicating potential emerging challenges in the economic and health landscape of Afghanistan.</li>
+</ul>
 
 ---
 
 <iframe title="Chronic diseases death rate (%), 2000 to 2019" aria-label="Scatter Plot" id="datawrapper-chart-aA35P" src="https://datawrapper.dwcdn.net/aA35P/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="485" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 <br />
-This chart
+<ul>
+  <li>The death rate from chronic diseases in Afghanistan has seen a steady decline, dropping from 41.66% in 2000 to 35.27% in 2019. This consistent reduction suggests improvements in managing chronic health conditions such as cardiovascular diseases, diabetes, and respiratory illnesses.
+</li>
+  <li>The decline in chronic disease mortality mirrors a decrease in the poverty ratio, which fell from 61.7% in 2000 to 28.59% in 2019. The positive correlation may indicate that better economic conditions and reduced poverty have played a role in improving access to healthcare and promoting healthier lifestyles.</li>
+  <li>While the early 2000s saw significant improvements, the rate of decline in chronic disease mortality slowed after 2010, coinciding with a stabilization in poverty reduction. This could signal that further progress in combating chronic diseases may require more targeted interventions.</li>
+</ul>
 
 ---
