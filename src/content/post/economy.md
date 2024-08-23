@@ -11,7 +11,10 @@ tags: ["economy"]
 <iframe title="Poverty headcount ratio (%) at $2.15 per day, 2000 to 2024" aria-label="Interactive line chart" id="datawrapper-chart-eaG3R" src="https://datawrapper.dwcdn.net/eaG3R/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="445" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 <br />
-This chart
+<ul>
+  <li>Afghanistan has seen a rapid increase in poverty, with the poverty ratio increasing from 26.47% in 2013 to a staggering 65.16% in 2024. This alarming trend reflects the deepening economic crisis and its impact on the population, with more than half of Afghans now living below the poverty line.</li>
+  <li>Between 2021 and 2024, Afghanistan's poverty ratio skyrocketed from 44.13% to 65.16%. This steep increase highlights the severe economic challenges faced by the country, likely exacerbated by political instability, unemployment, and lack of international aid.</li>
+</ul>
 
 ---
 
@@ -20,7 +23,11 @@ This chart
 <iframe title="Unemployment rate (%), 2000 to 2024" aria-label="Interactive line chart" id="datawrapper-chart-wLcQY" src="https://datawrapper.dwcdn.net/wLcQY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="445" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 <br />
-This chart
+<ul>
+  <li>Afghanistan's unemployment rate has shown a consistent upward trend, rising from 7.91% in 2013 to 16.34% in 2024. The doubling of the unemployment rate over a decade underscores the challenges in the labor market and the need for robust economic policies to create jobs.</li>
+  <li>The unemployment rate in Afghanistan jumped from 12.08% in 2021 to 16.34% in 2024. This sharp increase suggests a deteriorating economic environment, with more Afghans struggling to find employment amid growing uncertainties.
+</li>
+</ul>
 
 ---
 
