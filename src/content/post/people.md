@@ -12,7 +12,7 @@ tags: ["people", "population"]
 </script>
 <br />
 <ul>
-  <li>The total population of Kabul stands at 6,700,513, making it the most densely populated province in Afghanistan, with a significant lead over Hirat (2,755,910) and Nangarhar (2,190,770).</li>
+  <li>The total population of Kabul stands at 6,700,513, making it the most densely populated province in Afghanistan, with a significant lead over Herat (2,755,910) and Nangarhar (2,190,770).</li>
   <li>Provinces such as Nimroz (236,309) and Nuristan (210,895) have relatively small total populations, which could impact resource allocation and development initiatives.
 </li>
   <li>The average total population across provinces is about 1,000,968. The median total population is 724,844, and the province with the median total population is Farah. The median is found by ordering the population values and identifying the middle value, while the average is calculated by dividing the sum of all population figures by the number of provinces. The province of Farah is consistently at the median for male, female, and total populations, suggesting it represents a middle ground in Afghanistan's demographic distribution.
@@ -25,9 +25,9 @@ tags: ["people", "population"]
 </script>
 <br />
 <ul>
-  <li>Kabul also leads in female population with 3,293,371 females, underscoring its status as the most populous province in Afghanistan for both genders.
+  <li>Kabul leads in female population with 3,293,371 females, underscoring its status as the most populous province in Afghanistan for both genders.
 </li>
-  <li>Balkh (956,005 females) and Hirat (1,367,414 females) also have substantial female populations, making them key regions in terms of demographic significance.
+  <li>Balkh (956,005 females) and Herat (1,367,414 females) also have substantial female populations, making them key regions in terms of demographic significance.
 </li>
   <li>The average female population across provinces is roughly 494,720, with the median female population being 353,543. Farah is the province with the median female population.
 </li>
@@ -39,7 +39,7 @@ tags: ["people", "population"]
 </script>
 <br />
 <ul>
-  <li>With a total of 3,407,142 males, Kabul is the most populous province for males in Afghanistan, far surpassing other regions like Hirat (1,388,496) and Nangarhar (1,118,245).</li>
+  <li>With a total of 3,407,142 males, Kabul also leads in male population, far surpassing other regions like Herat (1,388,496) and Nangarhar (1,118,245).</li>
   <li>Provinces like Nuristan (107,609 males) and Nimroz (120,494 males) have some of the smallest male populations, reflecting their relatively low overall population density.</li>
   <li>The average male population across all provinces is approximately 506,249, while the median male population is 371,301. The province with the median male population is Farah.
 </li>
