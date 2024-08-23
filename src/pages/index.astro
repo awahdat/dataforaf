@@ -114,4 +114,11 @@ about Afghanistan, anytime and anywhere.
 			We thank our sponsors, who help us to keep democratizing data on Afghanistan.
 		</p>
 </section>
+
+{cactusTech.map((item) => (
+    <div>
+      <h3><a href={item.href}>{item.title}</a></h3>
+      <p innerHTML={item.desc}></p>  <!-- Here -->
+    </div>
+  ))}
 </PageLayout>
