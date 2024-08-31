@@ -36,6 +36,10 @@ tags: ["economy"]
 <iframe title="Self-reported Life Satisfaction (0-10 scale), 2008 to 2023" aria-label="Scatter Plot" id="datawrapper-chart-npCJK" src="https://datawrapper.dwcdn.net/npCJK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="458" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 <br />
-This chart
+<ul>
+  <li>Afghanistan has experienced a sharp decrease in self-reported life satisfaction over the years. The life satisfaction score dropped from 4.76 in 2010 to a low of 1.28 in 2022, reflecting life dissatisfaction among Afghans. In fact, the life satisfaction score has never been above 5 over the years.</li>
+  <li>The data suggests a potential correlation between rising unemployment rates and decreasing life satisfaction. As unemployment increased from 7.93% in 2008 to 15.38% in 2023, life satisfaction scores fell from 3.72 to 1.45, highlighting the relationship of economic instability with the well-being of Afghans. Other socioeconomic factors may also be related to life satisfaction, needing further investigation.
+</li>
+</ul>
 
 ---
