@@ -26,9 +26,10 @@ tags: ["environment", "pollution", "natural disasters"]
 </script>
 <br />
 <ul>
-  <li>Afghanistan's cereal yield has significantly increased from a low of 0.81 tonnes per hectare in 2000 to 2.25 tonnes per hectare in 2022, showcasing an impressive improvement in agricultural productivity over the past two decades.</li>
-  <li>After fluctuating in the early 2000s, cereal yields have stabilized and consistently improved since 2010, with yields remaining above 2 tonnes per hectare in most years.</li>
-  <li>The highest cereal yields on record were achieved in 2018 and 2022, both at 2.25 tonnes per hectare, indicating successful agricultural practices or favorable conditions in those years.</li>
+  <li>Flooding remains a consistent natural disaster in Afghanistan, with significant fluctuations in frequency. The number of flooding events peaked at 536 in 2022, followed by a sharp decrease to 234 in 2023.
+</li>
+  <li>While generally low in occurrence, snowfall events reached a peak of 143 recorded events in 2017, indicating a rare and significant weather anomaly during that year.</li>
+  <li>Afghanistan faced a dramatic increase in earthquake frequency, rising from just 17 events in 2016 to an alarming 443 in 2023. This spike indicates a significant escalation in seismic activity over the past few years.</li>
 </ul>
 
 ---
@@ -37,9 +38,10 @@ tags: ["environment", "pollution", "natural disasters"]
 </script>
 <br />
 <ul>
-  <li>Afghanistan's cereal yield has significantly increased from a low of 0.81 tonnes per hectare in 2000 to 2.25 tonnes per hectare in 2022, showcasing an impressive improvement in agricultural productivity over the past two decades.</li>
-  <li>After fluctuating in the early 2000s, cereal yields have stabilized and consistently improved since 2010, with yields remaining above 2 tonnes per hectare in most years.</li>
-  <li>The highest cereal yields on record were achieved in 2018 and 2022, both at 2.25 tonnes per hectare, indicating successful agricultural practices or favorable conditions in those years.</li>
+  <li>The number of fatalities due to natural disasters has escalated dramatically, with 1432 people killed in 2023, a stark rise from 163 in 2016. This alarming trend underscores the growing severity and impact of natural disasters in Afghanistan.</li>
+  <li>The number of individuals and families affected by natural disasters has also seen a significant increase. In 2023, 344,625 individuals and 55,833 families were affected, marking the highest numbers in the observed period and reflecting the broader impact of disasters on the Afghan population.
+</li>
+  <li>The number of houses affected by natural disasters peaked in 2023, with 54,582 homes damaged or destroyed. This represents a significant increase compared to previous years, highlighting the extensive damage and potential displacement caused by these events.</li>
 </ul>
 
 ---
@@ -48,9 +50,10 @@ tags: ["environment", "pollution", "natural disasters"]
 </script>
 <br />
 <ul>
-  <li>Afghanistan's cereal yield has significantly increased from a low of 0.81 tonnes per hectare in 2000 to 2.25 tonnes per hectare in 2022, showcasing an impressive improvement in agricultural productivity over the past two decades.</li>
-  <li>After fluctuating in the early 2000s, cereal yields have stabilized and consistently improved since 2010, with yields remaining above 2 tonnes per hectare in most years.</li>
-  <li>The highest cereal yields on record were achieved in 2018 and 2022, both at 2.25 tonnes per hectare, indicating successful agricultural practices or favorable conditions in those years.</li>
+  <li>The average number of individuals affected per event varies widely across Afghanistan. Provinces like Badghis (1,342) and Farah (1,321) have experienced significantly higher average impacts per event compared to provinces such as Ghor (98) and Kunar (82).
+</li>
+  <li>Provinces like Hilmand (963) and Kandahar (937) also show high average impacts, reflecting the intense vulnerability of these southern and western regions to natural disasters.</li>
+  <li>The province of Parwan, with 180 average individuals affected per event, stands as the median. Badghis has the highest average at 1,342, while Kunar has the lowest at 82. The median is found by ordering the provincial impact values and identifying the middle value.</li>
 </ul>
 
 ---
@@ -59,9 +62,9 @@ tags: ["environment", "pollution", "natural disasters"]
 </script>
 <br />
 <ul>
-  <li>Afghanistan's cereal yield has significantly increased from a low of 0.81 tonnes per hectare in 2000 to 2.25 tonnes per hectare in 2022, showcasing an impressive improvement in agricultural productivity over the past two decades.</li>
-  <li>After fluctuating in the early 2000s, cereal yields have stabilized and consistently improved since 2010, with yields remaining above 2 tonnes per hectare in most years.</li>
-  <li>The highest cereal yields on record were achieved in 2018 and 2022, both at 2.25 tonnes per hectare, indicating successful agricultural practices or favorable conditions in those years.</li>
+  <li>The average number of houses affected per event varies considerably across provinces. Badghis (209 houses) and Hilmand (129 houses) show the highest averages, indicating that these provinces are particularly vulnerable to disaster-related house damage. Provinces like Farah (123 houses) and Kandahar (126 houses) also report high averages.
+</li>
+  <li>The province of Nimroz, with an average of 34 houses affected per event, represents the median. Badghis has the highest average with 209 houses, while Daykundi experiences the least impact, averaging only 5 houses affected per event. The median is found by ordering the provincial impact values and identifying the middle value.</li>
 </ul>
 
 ---
