@@ -65,8 +65,10 @@ tags: ["environment", "pollution", "natural disasters"]
   <li>The average number of houses affected per event varies considerably across provinces. Badghis (209 houses) and Hilmand (129 houses) show the highest averages, indicating that these provinces are particularly vulnerable to disaster-related house damage. Provinces like Farah (123 houses) and Kandahar (126 houses) also report high averages.
 </li>
   <li>The province of Nimroz, with an average of 34 houses affected per event, represents the median. Badghis has the highest average with 209 houses, while Daykundi experiences the least impact, averaging only 5 houses affected per event. The median is found by ordering the provincial impact values and identifying the middle value.</li>
-<li>Cite this work: > Data for Afghanistan. (2024). Houses affected in a natural disaster event [Data visualization]. https://www.dataforafghanistan.org/environment/child-mortality. Licensed under CC BY-ND-NC 4.0.</li>
 </ul>
+```Cite this work 
+Data for Afghanistan. (2024). Houses affected in a natural disaster event [Data visualization]. https://www.dataforafghanistan.org/environment/child-mortality. Licensed under CC BY-ND-NC 4.0.
+```
 
 ---
 
