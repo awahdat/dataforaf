@@ -66,9 +66,9 @@ tags: ["environment", "pollution", "natural disasters"]
 </li>
   <li>The province of Nimroz, with an average of 34 houses affected per event, represents the median. Badghis has the highest average with 209 houses, while Daykundi experiences the least impact, averaging only 5 houses affected per event. The median is found by ordering the provincial impact values and identifying the middle value.</li>
 </ul>
-```Cite this work 
-Data for Afghanistan. (2024). Houses affected in a natural disaster event [Data visualization]. https://www.dataforafghanistan.org/environment/child-mortality. Licensed under CC BY-ND-NC 4.0.
-```
+>Cite this work
+>
+>Data for Afghanistan. (2024). Houses affected in a natural disaster event [Data visualization]. https://www.dataforafghanistan.org/environment/child-mortality. Licensed under CC BY-ND-NC 4.0.
 
 ---
 
