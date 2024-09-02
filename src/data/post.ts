@@ -16,8 +16,8 @@ export function getPostSortDate(post: CollectionEntry<"post">) {
 }
 
 /** sort post by date (by siteConfig.sortPostsByUpdatedDate), desc.*/
-export function sortMDByDate(data: CollectionEntry<"post">[]) {
-	return data.sort((a, b) => {
+export function sortMDByDate(posts: CollectionEntry<"post">[]) {
+	return posts.sort((a, b) => {
 		const aDate = getPostSortDate(a).valueOf();
 		const bDate = getPostSortDate(b).valueOf();
 		return bDate - aDate;
@@ -27,8 +27,8 @@ export function sortMDByDate(data: CollectionEntry<"post">[]) {
 /** groups posts by year (based on option siteConfig.sortPostsByUpdatedDate), using the year as the key
  *  Note: This function doesn't filter draft posts, pass it the result of getAllPosts above to do so.
  */
-export function groupPostsByYear(data: CollectionEntry<"post">[]) {
-	return data.reduce<Record<string, CollectionEntry<"post">[]>>((acc, post) => {
+export function groupPostsByYear(posts: CollectionEntry<"post">[]) {
+	return posts.reduce<Record<string, CollectionEntry<"post">[]>>((acc, post) => {
 		const year = getPostSortDate(post).getFullYear();
 		if (!acc[year]) {
 			acc[year] = [];
@@ -41,23 +41,23 @@ export function groupPostsByYear(data: CollectionEntry<"post">[]) {
 /** returns all tags created from posts (inc duplicate tags)
  *  Note: This function doesn't filter draft posts, pass it the result of getAllPosts above to do so.
  *  */
-export function getAllTags(data: CollectionEntry<"post">[]) {
-	return data.flatMap((post) => [...post.data.tags]);
+export function getAllTags(posts: CollectionEntry<"post">[]) {
+	return posts.flatMap((post) => [...post.data.tags]);
 }
 
 /** returns all unique tags created from posts
  *  Note: This function doesn't filter draft posts, pass it the result of getAllPosts above to do so.
  *  */
-export function getUniqueTags(data: CollectionEntry<"post">[]) {
-	return [...new Set(getAllTags(data))];
+export function getUniqueTags(posts: CollectionEntry<"post">[]) {
+	return [...new Set(getAllTags(posts))];
 }
 
 /** returns a count of each unique tag - [[tagName, count], ...]
  *  Note: This function doesn't filter draft posts, pass it the result of getAllPosts above to do so.
  *  */
-export function getUniqueTagsWithCount(data: CollectionEntry<"post">[]): [string, number][] {
+export function getUniqueTagsWithCount(posts: CollectionEntry<"post">[]): [string, number][] {
 	return [
-		...getAllTags(data).reduce(
+		...getAllTags(posts).reduce(
 			(acc, t) => acc.set(t, (acc.get(t) ?? 0) + 1),
 			new Map<string, number>(),
 		),
