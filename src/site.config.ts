@@ -35,13 +35,13 @@ export const menuLinks: { path: string; title: string }[] = [
 		path: "/",
 		title: "Home",
 	},
+  {
+		path: "/data/",
+		title: "Data",
+	},
 	{
 		path: "/about/",
 		title: "About",
-	},
-	{
-		path: "/posts/",
-		title: "Data",
 	},
 ];
 
