@@ -52,6 +52,11 @@ export default defineConfig({
 			exclude: ["@resvg/resvg-js"],
 		},
 		plugins: [rawFonts([".ttf", ".woff"])],
+    resolve: {
+      alias: {
+        '/data/': '/posts/',
+      },
+    },
 	},
 });
 
