@@ -19,6 +19,11 @@ tags: ["people", "population"]
 </li>
 </ul>
 
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). 2021 provincial population estimates for Afghanistan [Data visualization]. https://dataforafghanistan.org/posts/people/#1-population. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
 ---
 
 <iframe title="2021 female population estimates by province" aria-label="Map" id="datawrapper-chart-d4KQ4" src="https://datawrapper.dwcdn.net/d4KQ4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="579" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
@@ -33,6 +38,11 @@ tags: ["people", "population"]
 </li>
 </ul>
 
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). 2021 female population estimates by province [Data visualization]. https://dataforafghanistan.org/posts/people/#1-population. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
 ---
 
 <iframe title="2021 male population estimates by province" aria-label="Map" id="datawrapper-chart-q4hsj" src="https://datawrapper.dwcdn.net/q4hsj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="579" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
@@ -44,6 +54,11 @@ tags: ["people", "population"]
   <li>The average male population across all provinces is approximately 506,249, while the median male population is 371,301. The province with the median male population is Farah.
 </li>
 </ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). 2021 male population estimates by province [Data visualization]. https://dataforafghanistan.org/posts/people/#1-population. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
 
 ---
 
@@ -58,6 +73,10 @@ tags: ["people", "population"]
 </li>
 </ul>
 
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Afghanistan population distribution by age group [Data visualization]. https://dataforafghanistan.org/posts/people/#1-population. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
 ---
 
-## 2. 
