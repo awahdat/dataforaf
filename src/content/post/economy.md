@@ -16,6 +16,11 @@ tags: ["economy"]
   <li>Between 2021 and 2024, Afghanistan's poverty ratio skyrocketed from 44.13% to 65.16%. This steep increase highlights the severe economic challenges faced by the country, likely exacerbated by political instability, unemployment, and lack of international aid.</li>
 </ul>
 
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Poverty headcount ratio (%) at $2.15 per day, 2000 to 2024 [Data visualization]. https://dataforafghanistan.org/posts/economy/#1-poverty. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
 ---
 
 ## 2. Unemployment
@@ -29,6 +34,11 @@ tags: ["economy"]
 </li>
 </ul>
 
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Unemployment rate (%), 2000 to 2024 [Data visualization]. https://dataforafghanistan.org/posts/economy/#2-unemployment. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
 ---
 
 ## 3. Life Satisfaction
@@ -41,5 +51,10 @@ tags: ["economy"]
   <li>The data suggests a potential correlation between rising unemployment rates and decreasing life satisfaction. As unemployment increased from 7.93% in 2008 to 15.38% in 2023, life satisfaction scores fell from 3.72 to 1.45, highlighting the relationship of economic instability with the well-being of Afghans. Other socioeconomic factors may also be related to life satisfaction, needing further investigation.
 </li>
 </ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Self-reported Life Satisfaction (0-10 scale), 2008 to 2023 [Data visualization]. https://dataforafghanistan.org/posts/economy/#3-life-satisfaction. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
 
 ---
