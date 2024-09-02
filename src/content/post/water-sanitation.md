@@ -17,6 +17,11 @@ tags: ["water", "sanitation"]
 </li>
 </ul>
 
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Use of at least basic drinking water services (%), 2000 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/water-sanitation/#1-water-use. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
 ---
 
 ## 2. Sanitation Use
@@ -29,6 +34,11 @@ tags: ["water", "sanitation"]
   <li>In 2019, Afghanistan crossed an important threshold where more than half of the population (51%) had access to basic sanitation services. This marks a significant step in public health and the betterment of living conditions across the country.
 </li>
 </ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Use of at least basic sanitation services (%), 2000 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/water-sanitation/#2-sanitation-use. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
 
 ---
 
