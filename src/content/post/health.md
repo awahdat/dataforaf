@@ -16,6 +16,11 @@ tags: ["health"]
   <li>The data shows an upward trend in undernourishment from 22.6% in 2018 to 30.4% in 2022. This 7.8 percentage point increase in just four years reflects worsening conditions, potentially driven by political instability, economic challenges, and global crises. The prevalence of undernourishment (30.4%) in 2022 is close to levels observed in the mid-2000s (31.6% in 2006), indicating a significant setback in food security progress.</li>
 </ul>
 
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Prevalence of undernourishment (%), 2001 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/health/#1-insufficient-food-intake. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
 ---
 
 <iframe title="Prevalence of food insecurity (%), 2015 to 2022" aria-label="Interactive line chart" id="datawrapper-chart-e46i2" src="https://datawrapper.dwcdn.net/e46i2/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="479" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
@@ -26,6 +31,11 @@ tags: ["health"]
   <li>From 2019 to 2022, the prevalence of food insecurity surged from 63.1% to 80.9%. This 17.8 percentage point increase in just three years highlights the rapid deterioration of living conditions, likely exacerbated by the COVID-19 pandemic and economic challenges.</li>
 </ul>
 
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Prevalence of food insecurity (%), 2015 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/health/#1-insufficient-food-intake. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
 ---
 
 <iframe title="Prevalence of obesity, BMI ≥ 30 (%), 2000 to 2022" aria-label="Interactive line chart" id="datawrapper-chart-JbYgf" src="https://datawrapper.dwcdn.net/JbYgf/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="445" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
@@ -35,6 +45,11 @@ tags: ["health"]
   <li>The above data shows a consistent annual increase in the prevalence of obesity in Afghanistan from 4.25% in 2000 to 19.22% in 2022. This nearly five-fold increase over two decades highlights a significant shift in public health dynamics within the country.</li>
   <li>There is a noticeable acceleration in the obesity rate increase, particularly in the last decade, where the prevalence rose from 8.95% in 2010 to 19.22% in 2022. This trend indicates growing health concerns related to lifestyle and dietary changes. It is also likely that increased urbanization and associated changes in food consumption patterns are contributing to a higher prevalence of obesity.</li>
 </ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Prevalence of obesity, BMI ≥ 30 (%), 2000 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/health/#1-insufficient-food-intake. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
 
 ---
 
@@ -51,6 +66,11 @@ tags: ["health"]
 </li>
 </ul>
 
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Life expectancy at birth in Afghanistan (years), 2000 to 2021 [Data visualization]. https://dataforafghanistan.org/posts/health/#2-life-expectancy-and-mortality. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
 ---
 
 <iframe title="Maternal mortality rate (per 100,000 births), 2000 to 2020" aria-label="Scatter Plot" id="datawrapper-chart-tp3Dy" src="https://datawrapper.dwcdn.net/tp3Dy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="452" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
@@ -62,6 +82,11 @@ tags: ["health"]
 </li>
   <li>While the maternal mortality rate has continued to decline, the rate of improvement slowed in the 2010s, with a decrease from 883.7 in 2011 to 620.4 in 2020. Similarly, the poverty ratio saw a less dramatic reduction during this period, indicating potential challenges in sustaining rapid progress in health and economic development.</li>
 </ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Maternal mortality rate (per 100,000 births), 2000 to 2020 [Data visualization]. https://dataforafghanistan.org/posts/health/#2-life-expectancy-and-mortality. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
 
 ---
 
@@ -75,6 +100,11 @@ tags: ["health"]
   <li>Although infant mortality has steadily decreased, the poverty ratio saw an uptick from 28.59% in 2019 to 48.22% in 2022. This recent rise in poverty levels contrasts with the continued decrease in infant mortality, indicating potential emerging challenges in the economic and health landscape of Afghanistan.</li>
 </ul>
 
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Infant mortality rate (per 1,000 live births), 2000 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/health/#2-life-expectancy-and-mortality. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
 ---
 
 <iframe title="Chronic diseases death rate (%), 2000 to 2019" aria-label="Scatter Plot" id="datawrapper-chart-aA35P" src="https://datawrapper.dwcdn.net/aA35P/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="485" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
@@ -86,5 +116,10 @@ tags: ["health"]
   <li>The decline in chronic disease mortality mirrors a decrease in the poverty ratio, which fell from 61.7% in 2000 to 28.59% in 2019. The positive correlation may indicate that better economic conditions and reduced poverty have played a role in improving access to healthcare and promoting healthier lifestyles.</li>
   <li>While the early 2000s saw significant improvements, the rate of decline in chronic disease mortality slowed after 2010, coinciding with a stabilization in poverty reduction. This could signal that further progress in combating chronic diseases may require more targeted interventions.</li>
 </ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Chronic diseases death rate (%), 2000 to 2019 [Data visualization]. https://dataforafghanistan.org/posts/health/#2-life-expectancy-and-mortality. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
 
 ---
