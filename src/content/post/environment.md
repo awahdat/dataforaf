@@ -18,6 +18,11 @@ tags: ["environment", "pollution", "natural disasters"]
   <li>Long-term exposure to PM2.5 levels above 10 µg/m³ is associated with increased mortality rates, cardiovascular and respiratory diseases, and lung cancer.</li>
 </ul>
 
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Exposure to particulate matter air pollution, 2000 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/environment/#1-air-pollution Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
 ---
 
 ## 2. Natural Disasters
@@ -32,6 +37,11 @@ tags: ["environment", "pollution", "natural disasters"]
   <li>Afghanistan faced a dramatic increase in earthquake frequency, rising from just 17 events in 2016 to an alarming 443 in 2023. This spike indicates a significant escalation in seismic activity over the past few years.</li>
 </ul>
 
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Natural disaster events (frequency), 2016 to 2023 [Data visualization]. https://dataforafghanistan.org/posts/environment/#2-natural-disasters Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
 ---
 
 <iframe title="Natural disaster casualties &amp;amp; damages, 2016 to 2023" aria-label="Split Bars" id="datawrapper-chart-Qybgx" src="https://datawrapper.dwcdn.net/Qybgx/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
@@ -44,6 +54,11 @@ tags: ["environment", "pollution", "natural disasters"]
   <li>The number of houses affected by natural disasters peaked in 2023, with 54,582 homes damaged or destroyed. This represents a significant increase compared to previous years, highlighting the extensive damage and potential displacement caused by these events.</li>
 </ul>
 
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Natural disaster casualties & damages, 2016 to 2023 [Data visualization]. https://dataforafghanistan.org/posts/environment/#2-natural-disasters Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
 ---
 
 <iframe title="Individuals affected in a natural disaster event" aria-label="Map" id="datawrapper-chart-y5dby" src="https://datawrapper.dwcdn.net/y5dby/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="601" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
@@ -55,6 +70,11 @@ tags: ["environment", "pollution", "natural disasters"]
   <li>Provinces like Hilmand (963) and Kandahar (937) also show high average impacts, reflecting the intense vulnerability of these southern and western regions to natural disasters.</li>
   <li>The province of Parwan, with 180 average individuals affected per event, stands as the median. Badghis has the highest average at 1,342, while Kunar has the lowest at 82. The median is found by ordering the provincial impact values and identifying the middle value.</li>
 </ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Individuals affected in a natural disaster event [Data visualization]. https://dataforafghanistan.org/posts/environment/#2-natural-disasters Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
 
 ---
 
@@ -69,7 +89,7 @@ tags: ["environment", "pollution", "natural disasters"]
 
 <p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
 <blockquote>
-<p>Data for Afghanistan. (2024). Houses affected in a natural disaster event [Data visualization]. https://www.dataforafghanistan.org/environment/child-mortality. Licensed under CC BY-ND-NC 4.0.</p>
+<p>Data for Afghanistan. (2024). Houses affected in a natural disaster event [Data visualization]. https://dataforafghanistan.org/posts/environment/#2-natural-disasters Licensed under CC BY-ND-NC 4.0.</p>
 </blockquote>
 
 ---
