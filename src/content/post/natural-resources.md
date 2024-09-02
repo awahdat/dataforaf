@@ -16,6 +16,11 @@ tags: ["food", "agriculture", "natural resources"]
   <li>Despite challenges posed by COVID-19, the years 2021-2022 have shown stability in agriculture’s contribution to GDP, remaining above 33%. </li>
 </ul>
 
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Agriculture value-added share of GDP (%), 2001 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/natural-resources/#1-agriculture. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
 ---
 
 ## 2. Food
@@ -28,5 +33,12 @@ tags: ["food", "agriculture", "natural resources"]
   <li>After fluctuating in the early 2000s, cereal yields have stabilized and consistently improved since 2010, with yields remaining above 2 tonnes per hectare in most years.</li>
   <li>The highest cereal yields on record were achieved in 2018 and 2022, both at 2.25 tonnes per hectare, indicating successful agricultural practices or favorable conditions in those years.</li>
 </ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Cereal yield (tonnes per hectare) of harvested  land, 2000 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/natural-resources/#2-food. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
+---
 
 ---
