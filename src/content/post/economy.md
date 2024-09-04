@@ -41,6 +41,22 @@ tags: ["economy"]
 
 ---
 
+<div style="min-height:471px" id="datawrapper-vis-TiOF7"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TiOF7/embed.js" charset="utf-8" data-target="#datawrapper-vis-TiOF7"></script><noscript><img src="https://datawrapper.dwcdn.net/TiOF7/full.png" alt="Modeled estimate of the proportion of the female population aged 15 years and older that is economically active, divided by the same proportion for men." /></noscript></div>
+<br />
+<ul>
+  <li>The ratio of female-to-male labor force participation in Afghanistan has seen a sharp decline in recent years, plummeting from 21.84% in 2021 to just 6.99% in 2023. This sharp drop indicates a growing disparity, with far fewer women participating in the workforce compared to men.
+</li>
+  <li>The ratio, which measures the percentage of working-age women actively engaged in the workforce compared to men, had been gradually increasing from 19.25% in 2000, peaking at 28.94% in 2017. However, this trend reversed after 2017, reflecting increasing challenges for women to enter or remain in the workforce.
+</li>
+</ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Ratio of female-to-male labor force participation rate (%), 2000 to 2023 [Data visualization]. https://dataforafghanistan.org/posts/economy/#2-unemployment. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
+---
+
 ## 3. Life Satisfaction
 
 <iframe title="Self-reported Life Satisfaction (0-10 scale), 2008 to 2023" aria-label="Scatter Plot" id="datawrapper-chart-npCJK" src="https://datawrapper.dwcdn.net/npCJK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="458" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
