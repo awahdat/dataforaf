@@ -2,14 +2,13 @@
 title: "Environment in Afghanistan"
 description: "Data visualizations about environmental quality in Afghanistan"
 publishDate: "03 Aug 2024"
-tags: ["environment", "pollution", "natural disasters"]
+tags: ["environment", "pollution", "natural disasters", "Afghanistan", "data"]
 ---
 
 
 ## 1. Air Pollution
 
-<iframe title="Exposure to particulate matter air pollution, 2000 to 2022" aria-label="Interactive line chart" id="datawrapper-chart-lia5T" src="https://datawrapper.dwcdn.net/lia5T/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="496" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<div style="min-height:506px" id="datawrapper-vis-lia5T"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/lia5T/embed.js" charset="utf-8" data-target="#datawrapper-vis-lia5T"></script><noscript><img src="https://datawrapper.dwcdn.net/lia5T/full.png" alt="Air pollution measured as the population-weighted mean annual concentration of PM2.5 for the urban population in a country. PM2.5 is suspended particles measuring less than 2.5 microns in aerodynamic diameter, which are capable of penetrating deep into the respiratory tract and can cause severe health damage. Exposure is measured in micrograms of PM2.5 per cubic meter (µg/m³)." /></noscript></div>
 <br />
 <ul>
   <li>Over the 22 years from 2000 to 2022, Afghanistan's exposure to particulate matter has shown considerable fluctuation, with no consistent downward trend. This indicates ongoing challenges in managing air pollution, with significant variability that could be influenced by both natural and human-induced factors.</li>
@@ -27,8 +26,7 @@ tags: ["environment", "pollution", "natural disasters"]
 
 ## 2. Natural Disasters
 
-<iframe title="Natural disaster events (frequency), 2016 to 2023" aria-label="Split Bars" id="datawrapper-chart-LuzUv" src="https://datawrapper.dwcdn.net/LuzUv/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="422" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<div style="min-height:422px" id="datawrapper-vis-LuzUv"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/LuzUv/embed.js" charset="utf-8" data-target="#datawrapper-vis-LuzUv"></script><noscript><img src="https://datawrapper.dwcdn.net/LuzUv/full.png" alt="Vulnerability of Afghanistan to different natural disaster events from 2016 to 2023." /></noscript></div>
 <br />
 <ul>
   <li>Flooding remains a consistent natural disaster in Afghanistan, with significant fluctuations in frequency. The number of flooding events peaked at 536 in 2022, followed by a sharp decrease to 234 in 2023.
@@ -44,8 +42,7 @@ tags: ["environment", "pollution", "natural disasters"]
 
 ---
 
-<iframe title="Natural disaster casualties &amp;amp; damages, 2016 to 2023" aria-label="Split Bars" id="datawrapper-chart-Qybgx" src="https://datawrapper.dwcdn.net/Qybgx/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<div style="min-height:442px" id="datawrapper-vis-Qybgx"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/Qybgx/embed.js" charset="utf-8" data-target="#datawrapper-vis-Qybgx"></script><noscript><img src="https://datawrapper.dwcdn.net/Qybgx/full.png" alt="Vulnerability of Afghanistan to different natural disaster events from 2016 to 2023." /></noscript></div>
 <br />
 <ul>
   <li>The number of fatalities due to natural disasters has escalated dramatically, with 1432 people killed in 2023, a stark rise from 163 in 2016. This alarming trend underscores the growing severity and impact of natural disasters in Afghanistan.</li>
@@ -61,8 +58,7 @@ tags: ["environment", "pollution", "natural disasters"]
 
 ---
 
-<iframe title="Individuals affected in a natural disaster event" aria-label="Map" id="datawrapper-chart-y5dby" src="https://datawrapper.dwcdn.net/y5dby/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="601" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<div style="min-height:574px" id="datawrapper-vis-y5dby"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/y5dby/embed.js" charset="utf-8" data-target="#datawrapper-vis-y5dby"></script><noscript><img src="https://datawrapper.dwcdn.net/y5dby/full.png" alt="This map shows the average number of individuals affected in a disaster event in each province. The average is calculated by dividing total affected individuals by total natural disaster events from 2016 to 2023." /></noscript></div>
 <br />
 <ul>
   <li>The average number of individuals affected per event varies widely across Afghanistan. Provinces like Badghis (1,342) and Farah (1,321) have experienced significantly higher average impacts per event compared to provinces such as Ghor (98) and Kunar (82).
@@ -78,8 +74,7 @@ tags: ["environment", "pollution", "natural disasters"]
 
 ---
 
-<iframe title="Houses affected in a natural disaster event" aria-label="Map" id="datawrapper-chart-nPQ9x" src="https://datawrapper.dwcdn.net/nPQ9x/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="601" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<div style="min-height:574px" id="datawrapper-vis-nPQ9x"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/nPQ9x/embed.js" charset="utf-8" data-target="#datawrapper-vis-nPQ9x"></script><noscript><img src="https://datawrapper.dwcdn.net/nPQ9x/full.png" alt="This map shows the average number of houses affected in a disaster event in each province. For each province, the average is calculated by dividing total affected houses by total natural disaster events from 2016 to 2023." /></noscript></div>
 <br />
 <ul>
   <li>The average number of houses affected per event varies considerably across provinces. Badghis (209 houses) and Hilmand (129 houses) show the highest averages, indicating that these provinces are particularly vulnerable to disaster-related house damage. Provinces like Farah (123 houses) and Kandahar (126 houses) also report high averages.
