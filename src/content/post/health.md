@@ -2,7 +2,7 @@
 title: "Health in Afghanistan"
 description: "Data visualizations about health indicators in Afghanistan"
 publishDate: "03 Aug 2024"
-tags: ["health", "hunger", "mortality", "diseases" "Afghanistan", "data"]
+tags: ["health", "hunger", "mortality", "diseases", "Afghanistan", "data"]
 ---
 
 
