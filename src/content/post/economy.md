@@ -2,14 +2,13 @@
 title: "Economy in Afghanistan"
 description: "Data visualizations about economic growth, inequality, and poverty in Afghanistan"
 publishDate: "02 Aug 2024"
-tags: ["economy"]
+tags: ["economy", "unemployment", "poverty", "gross domestic product", "Afghanistan", "data"]
 ---
 
 
 ## 1. Poverty
 
-<iframe title="Poverty headcount ratio (%) at $2.15 per day, 2000 to 2024" aria-label="Interactive line chart" id="datawrapper-chart-eaG3R" src="https://datawrapper.dwcdn.net/eaG3R/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="445" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<div style="min-height:471px" id="datawrapper-vis-eaG3R"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/eaG3R/embed.js" charset="utf-8" data-target="#datawrapper-vis-eaG3R"></script><noscript><img src="https://datawrapper.dwcdn.net/eaG3R/full.png" alt="The estimated percentage of Afghanistan's population living below the national poverty line of US$2.15 per day, using 2017 purchasing power parity (PPP)." /></noscript></div>
 <br />
 <ul>
   <li>Afghanistan has seen a rapid increase in poverty, with the poverty ratio increasing from 26.47% in 2013 to a staggering 65.16% in 2024. This alarming trend reflects the deepening economic crisis and its impact on the population, with more than half of Afghans now living below the poverty line.</li>
@@ -25,8 +24,7 @@ tags: ["economy"]
 
 ## 2. Unemployment
 
-<iframe title="Unemployment rate (%), 2000 to 2024" aria-label="Interactive line chart" id="datawrapper-chart-wLcQY" src="https://datawrapper.dwcdn.net/wLcQY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="445" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<div style="min-height:462px" id="datawrapper-vis-wLcQY"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/wLcQY/embed.js" charset="utf-8" data-target="#datawrapper-vis-wLcQY"></script><noscript><img src="https://datawrapper.dwcdn.net/wLcQY/full.png" alt="The estimated percentage of Afghanistan's labor force without work but available and actively seeking employment. The labor force estimation includes individuals aged 15 and above." /></noscript></div>
 <br />
 <ul>
   <li>Afghanistan's unemployment rate has shown a consistent upward trend, rising from 7.91% in 2013 to 16.34% in 2024. The doubling of the unemployment rate over a decade underscores the challenges in the labor market and the need for robust economic policies to create jobs.</li>
@@ -59,8 +57,7 @@ tags: ["economy"]
 
 ## 3. Life Satisfaction
 
-<iframe title="Self-reported Life Satisfaction (0-10 scale), 2008 to 2023" aria-label="Scatter Plot" id="datawrapper-chart-npCJK" src="https://datawrapper.dwcdn.net/npCJK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="458" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<div style="min-height:458px" id="datawrapper-vis-npCJK"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/npCJK/embed.js" charset="utf-8" data-target="#datawrapper-vis-npCJK"></script><noscript><img src="https://datawrapper.dwcdn.net/npCJK/full.png" alt="Subjective self-evaluation of life, where respondents are asked to evaluate where they feel they stand on a ladder where 0 represents the worst possible life and 10 the best possible life. Circle sizes represent the unemployment rate (%)." /></noscript></div>
 <br />
 <ul>
   <li>Afghanistan has experienced a sharp decrease in self-reported life satisfaction over the years. The life satisfaction score dropped from 4.76 in 2010 to a low of 1.28 in 2022, reflecting life dissatisfaction among Afghans. In fact, the life satisfaction score has never been above 5 over the years.</li>
