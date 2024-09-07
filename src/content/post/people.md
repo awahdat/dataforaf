@@ -2,14 +2,13 @@
 title: "People of Afghanistan"
 description: "Data visualizations about the people and population of Afghanistan"
 publishDate: "03 Aug 2024"
-tags: ["people", "population"]
+tags: ["people", "population", "Afghanistan", "data"]
 ---
 
 
 ## 1. Population
 
-<iframe title="2021 provincial population estimates for Afghanistan" aria-label="Map" id="datawrapper-chart-ZbXsJ" src="https://datawrapper.dwcdn.net/ZbXsJ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="579" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<div style="min-height:540px" id="datawrapper-vis-ZbXsJ"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/ZbXsJ/embed.js" charset="utf-8" data-target="#datawrapper-vis-ZbXsJ"></script><noscript><img src="https://datawrapper.dwcdn.net/ZbXsJ/full.png" alt="Afghanistan provincial population statistics. 2021 estimates based on 2017 study conducted by Flowminder/UNFPA." /></noscript></div>
 <br />
 <ul>
   <li>The total population of Kabul stands at 6,700,513, making it the most densely populated province in Afghanistan, with a significant lead over Herat (2,755,910) and Nangarhar (2,190,770).</li>
@@ -26,8 +25,7 @@ tags: ["people", "population"]
 
 ---
 
-<iframe title="2021 female population estimates by province" aria-label="Map" id="datawrapper-chart-d4KQ4" src="https://datawrapper.dwcdn.net/d4KQ4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="579" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<div style="min-height:540px" id="datawrapper-vis-d4KQ4"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/d4KQ4/embed.js" charset="utf-8" data-target="#datawrapper-vis-d4KQ4"></script><noscript><img src="https://datawrapper.dwcdn.net/d4KQ4/full.png" alt="Afghanistan female population estimates by province. 2021 population estimates based on 2017 study conducted by Flowminder/UNFPA." /></noscript></div>
 <br />
 <ul>
   <li>Kabul leads in female population with 3,293,371 females, underscoring its status as the most populous province in Afghanistan for both genders.
@@ -45,8 +43,7 @@ tags: ["people", "population"]
 
 ---
 
-<iframe title="2021 male population estimates by province" aria-label="Map" id="datawrapper-chart-q4hsj" src="https://datawrapper.dwcdn.net/q4hsj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="579" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<div style="min-height:540px" id="datawrapper-vis-q4hsj"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/q4hsj/embed.js" charset="utf-8" data-target="#datawrapper-vis-q4hsj"></script><noscript><img src="https://datawrapper.dwcdn.net/q4hsj/full.png" alt="Afghanistan male population estimates by province. 2021 population estimates based on 2017 study conducted by Flowminder/UNFPA." /></noscript></div>
 <br />
 <ul>
   <li>With a total of 3,407,142 males, Kabul also leads in male population, far surpassing other regions like Herat (1,388,496) and Nangarhar (1,118,245).</li>
@@ -62,8 +59,7 @@ tags: ["people", "population"]
 
 ---
 
-<iframe title="Afghanistan population distribution by age group" aria-label="Split Bars" id="datawrapper-chart-iHYyP" src="https://datawrapper.dwcdn.net/iHYyP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="549" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<div style="min-height:549px" id="datawrapper-vis-iHYyP"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/iHYyP/embed.js" charset="utf-8" data-target="#datawrapper-vis-iHYyP"></script><noscript><img src="https://datawrapper.dwcdn.net/iHYyP/full.png" alt="Afghanistan population estimates by province. 2021 population estimates based on 2017 study conducted by Flowminder/UNFPA." /></noscript></div>
 <br />
 <ul>
   <li>In the youngest age group (0-4 years), males slightly outnumber females with 3.71 million males compared to 3.57 million females. This male majority trend continues in the next age group (5-9 years), with males making up approximately 3.29 million, while females constitute around 3.07 million.
