@@ -2,7 +2,7 @@
 title: "Economy in Afghanistan"
 description: "Data visualizations about economic growth, inequality, and poverty in Afghanistan"
 publishDate: "02 Aug 2024"
-tags: ["economy", "unemployment", "poverty", "gross domestic product", "Afghanistan", "data"]
+tags: ["economy", "unemployment", "poverty", "gross domestic product", "prices", "inflation", "Afghanistan", "data"]
 ---
 
 
@@ -68,6 +68,41 @@ tags: ["economy", "unemployment", "poverty", "gross domestic product", "Afghanis
 <p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
 <blockquote>
 <p>Data for Afghanistan. (2024). Self-reported Life Satisfaction (0-10 scale), 2008 to 2023 [Data visualization]. https://dataforafghanistan.org/posts/economy/#3-life-satisfaction. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
+---
+
+## 4. GDP
+
+<div style="min-height:559px" id="datawrapper-vis-BRcuM"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/BRcuM/embed.js" charset="utf-8" data-target="#datawrapper-vis-BRcuM"></script><noscript><img src="https://datawrapper.dwcdn.net/BRcuM/full.png" alt="GDP per capita is gross domestic product divided by midyear population, expressed in constant 2015 US$. GDP is the total market value of the final goods and services produced within Afghanistan in a year." /></noscript></div>
+<br />
+<ul>
+  <li>Afghanistan’s real GDP per capita saw a relatively steady increase from 2002 to 2013, peaking at $582.1 in 2013. Considerable economic growth happened in earlier years, such as an 11.8% increase in GDP per capita in 2007 and a 17.14% increase in 2009. Economic growth from 2001 to 2013 was driven by periods of rapid development, foreign aid, and reconstruction efforts.</li>
+  <li>Afghanistan's real GDP per capita experienced a significant contraction of 23% in 2021 and continued to shrink by 8.59% in 2022. The dramatic fall in GDP per capita after 2021 was mainly due to political instability and the withdrawal of international aid.
+</li>
+  <li>Afghanistan’s real GDP per capita has faced substantial fluctuations over the past two decades, with periods of growth and contraction reflecting an unstable economic environment impacted by ongoing conflicts, political changes, and dependency on international support.
+</li>
+</ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Constant GDP per capita and annual growth, 2000 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/economy/#4-gdp. Data retrieved from the World Bank. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
+---
+
+## 5. Inflation
+
+<div style="min-height:419px" id="datawrapper-vis-HVMoG"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/HVMoG/embed.js" charset="utf-8" data-target="#datawrapper-vis-HVMoG"></script><noscript><img src="https://datawrapper.dwcdn.net/HVMoG/full.png" alt="The displayed inflation rate is the annual percentage change in average consumer prices in Afghanistan." /></noscript></div>
+<ul>
+  <li>Afghanistan experienced a significant inflation spike of 35.7% in 2003, mainly due to uncertainty surrounding the introduction of the new Afghani currency, which caused depreciation and a sharp rise in prices. Another major inflation spike of 26.4% occurred in 2008, largely driven by soaring global food and fuel prices. This also reflects Afghanistan’s vulnerability to external market conditions.</li>
+  <li>Inflation stabilized from 2010 to 2020, despite some fluctuations. Inflationary pressures returned in 2021 (7.8%) and 2022 (10.6%), mainly due an increase in the prices of food commodities, reflecting global spikes in the prices of food commodities and supply chain disruptions.
+</li>
+</ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Inflation rate (annual % change), 2002 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/economy/#5-inflation. Data retrieved from the IMF. Licensed under CC BY-ND-NC 4.0.</p>
 </blockquote>
 
 ---
