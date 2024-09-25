@@ -2,7 +2,7 @@
 title: "Economy in Afghanistan"
 description: "Data visualizations about economic growth, inequality, and poverty in Afghanistan"
 publishDate: "02 Aug 2024"
-tags: ["economy", "unemployment", "poverty", "gross domestic product", "prices", "inflation", "Afghanistan", "data"]
+tags: ["economy", "unemployment", "poverty", "gross domestic product", "prices", "inflation", "reconstruction fund", "Afghanistan", "data"]
 ---
 
 
@@ -106,3 +106,22 @@ tags: ["economy", "unemployment", "poverty", "gross domestic product", "prices",
 </blockquote>
 
 ---
+
+## 6. US Funding
+
+<div style="min-height:866px" id="datawrapper-vis-g3JbI"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/g3JbI/embed.js" charset="utf-8" data-target="#datawrapper-vis-g3JbI"></script><noscript><img src="https://datawrapper.dwcdn.net/g3JbI/full.png" alt="Annual U.S. Funding Made Available for Afghanistan Reconstruction (in millions), 2002 to 2024" /></noscript></div>
+<ul>
+  <li>Security funding reached its highest point in 2011, with $11,034 million allocated, reflecting a major focus on Afghan security forces and counter-narcotics activities. By 2022, this figure dropped to just $100 million.</li>
+  <li>Development funding reached $5,319 million in 2010 but kept decreasing in the following years, dropping to just $217 million by 2022, highlighting a shift in US development efforts in Afghanistan.
+</li>
+  <li>Humanitarian assistance saw a major spike in 2022, with $1,078 million allocated, a significant increase from previous years, highlighting the key focus being disaster and refugee assistance
+</li>
+</ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Annual U.S. Funding Made Available for Afghanistan Reconstruction (in millions), 2002 to 2024 [Data visualization]. https://dataforafghanistan.org/posts/economy/#6-us-funding. Data retrieved from the SIGAR. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
+---
+
