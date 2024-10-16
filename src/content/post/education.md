@@ -1,6 +1,6 @@
 ---
 title: "Education in Afghanistan"
-description: "Data visualizations about the status of education in Afghanistan"
+description: "Afghanistan education datasets and their visualizations"
 publishDate: "03 Aug 2024"
 tags: ["education", "Afghanistan", "data", "literacy", "school", "students", "teachers"]
 ---
@@ -82,6 +82,20 @@ tags: ["education", "Afghanistan", "data", "literacy", "school", "students", "te
 <p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
 <blockquote>
 <p>Data for Afghanistan. (2024). Government expenditure on education (% of GDP), 1971 to 2017 [Data visualization]. https://dataforafghanistan.org/posts/education/#5-government-spending. Data retrieved from UNESCO. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
+## 6. Students per school & teacher
+
+<div style="min-height:542px" id="datawrapper-vis-VRu1M"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/VRu1M/embed.js" charset="utf-8" data-target="#datawrapper-vis-VRu1M"></script><noscript><img src="https://datawrapper.dwcdn.net/VRu1M/full.png" alt="The average number of students per school and teacher in Afghanistan from 2002 to 2022" /></noscript></div>
+<br />
+<ul>
+  <li>The number of students per school in Afghanistan has varied over the years. In 2004 and 2006, the number of students per school was the highest in the data (655 and 649, respectively). However, this number has been below 600 since 2008, signaling efforts to distribute students more evenly across educational facilities.</li>
+  <li>The number of students per teacher in Afghanistan shows a slightly upward trend from 2002 to 2022. The period from 2010 to 2016 saw consistently high student numbers per teacher, reflecting the growing demand for education, exceeding the pace of new teacher recruitment. After 2015, there was a slight decline in the student-teacher ratio. The overall trend suggests that Afghanistan's education system has struggled to keep up with the growing student population, leading to larger class sizes.</li>
+</ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Average number of students per school and teacher, 2002 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/education/#6-students-per-school-&-teacher. Data retrieved from the National Statistics and Information Authority of Afghanistan. Licensed under CC BY-ND-NC 4.0.</p>
 </blockquote>
 
 ---
