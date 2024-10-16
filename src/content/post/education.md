@@ -95,7 +95,7 @@ tags: ["education", "Afghanistan", "data", "literacy", "school", "students", "te
 
 <p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
 <blockquote>
-<p>Data for Afghanistan. (2024). Average number of students per school and teacher, 2002 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/education/#6-students-per-school-&-teacher. Data retrieved from the National Statistics and Information Authority of Afghanistan. Licensed under CC BY-ND-NC 4.0.</p>
+<p>Data for Afghanistan. (2024). Average number of students per school and teacher, 2002 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/education/#6-students-per-school--teacher. Data retrieved from the National Statistics and Information Authority of Afghanistan. Licensed under CC BY-ND-NC 4.0.</p>
 </blockquote>
 
 ---
