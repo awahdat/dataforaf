@@ -1,6 +1,6 @@
 ---
 title: "Economy in Afghanistan"
-description: "Data visualizations about economic growth, inequality, and poverty in Afghanistan"
+description: "Afghanistan datasets and data visualizations about economic growth, inequality, and poverty in Afghanistan"
 publishDate: "02 Aug 2024"
 tags: ["economy", "unemployment", "poverty", "gross domestic product", "prices", "inflation", "reconstruction fund", "Afghanistan", "data"]
 ---
