@@ -84,6 +84,8 @@ tags: ["education", "Afghanistan", "data", "literacy", "school", "students", "te
 <p>Data for Afghanistan. (2024). Government expenditure on education (% of GDP), 1971 to 2017 [Data visualization]. https://dataforafghanistan.org/posts/education/#5-government-spending. Data retrieved from UNESCO. Licensed under CC BY-ND-NC 4.0.</p>
 </blockquote>
 
+---
+
 ## 6. Students per school & teacher
 
 <div style="min-height:542px" id="datawrapper-vis-VRu1M"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/VRu1M/embed.js" charset="utf-8" data-target="#datawrapper-vis-VRu1M"></script><noscript><img src="https://datawrapper.dwcdn.net/VRu1M/full.png" alt="The average number of students per school and teacher in Afghanistan from 2002 to 2022" /></noscript></div>
@@ -96,6 +98,22 @@ tags: ["education", "Afghanistan", "data", "literacy", "school", "students", "te
 <p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
 <blockquote>
 <p>Data for Afghanistan. (2024). Average number of students per school and teacher, 2002 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/education/#6-students-per-school--teacher. Data retrieved from the National Statistics and Information Authority of Afghanistan. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
+---
+
+## 7. Schools
+
+<div style="min-height:473px" id="datawrapper-vis-kMaL0"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/kMaL0/embed.js" charset="utf-8" data-target="#datawrapper-vis-kMaL0"></script><noscript><img src="https://datawrapper.dwcdn.net/kMaL0/full.png" alt="Government and private schools in Afghanistan, 2002 to 2022" /></noscript></div>
+<br />
+<ul>
+  <li>From 2002 to 2022, the number of government schools grew substantially from 6,870 to 15,164, highlighting investments in public education infrastructure. Rapid growth in government schools took place between 2007 and 2011, i.e., increasing from 9,017 to 13,556. However, the growth has been gradual since 2011.</li>
+  <li>Private schools in Afghanistan experienced significant growth, increasing from 159 in 2009 to 2,846 by 2022, reflecting the expanding role of private education. The private education sector experienced its sharpest growth from 2010 to 2012, followed by a noticeable growth in 2021 relative to 2019. While government schools' growth tapered off from 2011 to 2022, private schools' growth intensified.</li>
+</ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Government and private schools in Afghanistan, 2002 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/education/#7-schools. Data retrieved from the National Statistics and Information Authority of Afghanistan. Licensed under CC BY-ND-NC 4.0.</p>
 </blockquote>
 
 ---
