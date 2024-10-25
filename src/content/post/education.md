@@ -118,4 +118,19 @@ tags: ["education", "Afghanistan", "data", "literacy", "school", "students", "te
 
 ---
 
+## 8. Students
+
+<div style="min-height:499px" id="datawrapper-vis-oMpsY"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/oMpsY/embed.js" charset="utf-8" data-target="#datawrapper-vis-oMpsY"></script><noscript><img src="https://datawrapper.dwcdn.net/oMpsY/full.png" alt="Students enrolled in government and private schools in Afghanistan, 2002 to 2022" /></noscript></div>
+<br />
+<ul>
+  <li>Student enrollment in Afghan government schools experienced a significant growth from 3.7 million students in 2002 to about 9.3 million in 2022. Student enrollment growth was the highest in the early years. For example, government schools witnessed the highest annual growth of 29.6% in 2004.</li>
+  <li>Private school enrollment in Afghanistan started at 36,224 students in 2008 and skyrocketed to 930,663 by 2022 - a 26-fold increase. From 2019 to 2022, private school enrollment in Afghanistan experienced a significant increase of about 677%, rising from 119,943 students in 2019 to 930,663 students in 2022. In contrast, government school enrollment increased by only 1.3% during the same period, growing from 9.14 million to 9.26 million students. The growing shift toward private education could be explained by families seeking private schooling due to education quality perceptions and education limitations in a challenging political context.</li>
+</ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Students enrolled in government and private schools in Afghanistan, 2002 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/education/#8-students. Data retrieved from the National Statistics and Information Authority of Afghanistan. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
+---
 
