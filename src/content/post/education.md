@@ -134,3 +134,19 @@ tags: ["education", "Afghanistan", "data", "literacy", "school", "students", "te
 
 ---
 
+## 9. Teachers
+
+<div style="min-height:504px" id="datawrapper-vis-ibZJJ"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/ibZJJ/embed.js" charset="utf-8" data-target="#datawrapper-vis-ibZJJ"></script><noscript><img src="https://datawrapper.dwcdn.net/ibZJJ/full.png" alt="Teachers in government and private schools in Afghanistan, 2002 to 2022" /></noscript></div>
+<br />
+<ul>
+  <li>The number of teachers in Afghan government schools grew significantly from 92,583 in 2002 to 191,247 in 2022. The period between 2002 and 2012 saw consistent increases, with a peak in growth in 2010 when government school teachers reached 162,273—a 75% increase from 2002 levels. The continued teacher increase until 2019  reflects the government's efforts to strengthen public education over two decades.</li>
+  <li>Private education also saw a remarkable rise in teacher numbers, from just 1,941 teachers in 2009 to 42,506 by 2022, a staggering 22-fold increase. The consistent growth is particularly notable from 2014 to 2022, when the number of private school teachers quadrupled, highlighting a growing demand for private education as families may increasingly view it as a quality alternative to government schools. From 2021 to 2022, private school teachers decreased by about 1,000, which could be due to the challenging economic and political circumstances at the time.</li>
+</ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Teachers in government and private schools in Afghanistan, 2002 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/education/#9-teachers. Data retrieved from the National Statistics and Information Authority of Afghanistan. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
+---
+
