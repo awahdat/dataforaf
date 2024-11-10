@@ -1,6 +1,6 @@
 ---
 title: "Water, Sanitation, and Hygiene in Afghanistan"
-description: "Data visualizations about the status of water, sanitation, and hygiene in Afghanistan"
+description: "Afghanistan datasets and data visualizations about the status of water, sanitation, and hygiene in Afghanistan"
 publishDate: "03 Aug 2024"
 tags: ["water", "sanitation", "Afghanistan", "data"]
 ---
