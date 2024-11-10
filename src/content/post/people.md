@@ -1,6 +1,6 @@
 ---
 title: "People of Afghanistan"
-description: "Data visualizations about the people and population of Afghanistan"
+description: "Afghanistan datasets and data visualizations about Afghan people and population"
 publishDate: "03 Aug 2024"
 tags: ["people", "population", "Afghanistan", "data"]
 ---
