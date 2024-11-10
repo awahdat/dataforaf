@@ -1,6 +1,6 @@
 ---
 title: "Environment in Afghanistan"
-description: "Data visualizations about environmental quality in Afghanistan"
+description: "Afghanistan datasets and data visualizations about environmental quality and natural disasters"
 publishDate: "03 Aug 2024"
 tags: ["environment", "pollution", "natural disasters", "Afghanistan", "data"]
 ---
