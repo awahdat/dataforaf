@@ -1,6 +1,6 @@
 ---
 title: "Natural Resources in Afghanistan"
-description: "Data visualizations about natural resources, food, and agriculture in Afghanistan"
+description: "Afghanistan datasets and data visualizations about natural resources, food, agriculture"
 publishDate: "05 Aug 2024"
 tags: ["food", "agriculture", "natural resources", "Afghanistan", "data"]
 ---
