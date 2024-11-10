@@ -150,3 +150,18 @@ tags: ["education", "Afghanistan", "data", "literacy", "school", "students", "te
 
 ---
 
+## 10. Islamic Students
+
+<div style="min-height:473px" id="datawrapper-vis-T8IxN"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/T8IxN/embed.js" charset="utf-8" data-target="#datawrapper-vis-T8IxN"></script><noscript><img src="https://datawrapper.dwcdn.net/T8IxN/full.png" alt="Islamic education students in government and private Islamic schools (total), 2008 to 2022" /></noscript></div>
+<br />
+<ul>
+  <li>Islamic school enrollment in Afghanistan increased from 92,436 students in 2008 to a peak of 361,687 students in 2019. This growth represents a significant rise in demand for Islamic education over the decade. However, enrollment has since declined, reaching 330,950 students by 2022.</li>
+</ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2024). Islamic education students in government and private Islamic schools (total), 2008 to 2022 [Data visualization]. https://dataforafghanistan.org/posts/education/#10-islamic-students. Data retrieved from the National Statistics and Information Authority of Afghanistan. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
+---
+
