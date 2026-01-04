@@ -11,115 +11,202 @@ const meta = {
 
 <PageLayout meta={meta}>
 	<div class="space-y-6">
-
-  
 		<h1 class="title">Become a Sponsor of Data for Afghanistan</h1>
 		<p>
-		Your sponsorship can help Data for Afghanistan grow. 
-    If you are interested in becoming a sponsor, please fill out the following form.  </p>
+			Your sponsorship can help Data for Afghanistan grow and bring you visibility among our diverse and engaged audience.  
+		</p>
 
-    
+		<!-- Why Sponsor Section -->
+		<div class="sponsor-info-section space-y-8 my-12">
+			
+			<!-- Impact Metrics Section -->
+			<div class="metrics-section">
+				<h2 class="text-2xl font-bold text-gray-800 dark:text-gray-200 mb-6">Our Reach & Impact</h2>
+				
+				<div class="stats-grid grid grid-cols-1 md:grid-cols-3 gap-6">
+					<div class="stat-card border-2 border-gray-300 dark:border-gray-600 bg-transparent p-6 rounded-lg text-center">
+						<div class="stat-number text-4xl font-bold text-gray-800 dark:text-gray-200 mb-2">2,000+</div>
+						<div class="stat-label text-gray-700 dark:text-gray-300">Monthly Views</div>
+					</div>
+					<div class="stat-card border-2 border-gray-300 dark:border-gray-600 bg-transparent p-6 rounded-lg text-center">
+						<div class="stat-number text-4xl font-bold text-gray-800 dark:text-gray-200 mb-2">18+</div>
+						<div class="stat-label text-gray-700 dark:text-gray-300">Countries Reached</div>
+					</div>
+					<div class="stat-card border-2 border-gray-300 dark:border-gray-600 bg-transparent p-6 rounded-lg text-center">
+						<div class="stat-number text-4xl font-bold text-gray-800 dark:text-gray-200 mb-2">1st Page</div>
+						<div class="stat-label text-gray-700 dark:text-gray-300">Google Ranking for "Afghanistan Data"</div>
+					</div>
+				</div>
+			</div>
 
-<div class="flex items-center min-h-screen bg-gray-50 dark:bg-gray-900">
-  <div class="container mx-auto">
-    <div class="max-w-md mx-auto my-10 bg-white p-5 rounded-md shadow-sm">
-      <div class="text-center">
-        <h1
-          class="my-3 text-3xl font-semibold text-gray-700 dark:text-gray-200"
-        >
-          Contact Us
-        </h1>
-        <p class="text-gray-400 dark:text-gray-400">
-          Let's start a conversation!
-        </p>
-      </div>
-      <div class="m-7">
-        <form action="https://api.web3forms.com/submit" method="POST" id="form">
-          <input type="hidden" name="access_key" value="703fd816-e8c7-4f72-88d0-1dd91bc19610" />
-          <input
-            type="hidden"
-            name="subject"
-            value="New Submission from Web3Forms"
-          />
-          <input
-            type="hidden"
-            name="redirect"
-            value="https://web3forms.com/success"
-          />
-          <input type="checkbox" name="botcheck" id="" style="display: none;" />
-          <div class="mb-6">
-            <label
-              for="name"
-              class="block mb-2 text-sm text-gray-600 dark:text-gray-400"
-              >Full Name</label
-            >
-            <input
-              type="text"
-              name="name"
-              id="name"
-              placeholder="John Doe"
-              required
-              class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
-            />
-          </div>
-          <div class="mb-6">
-            <label
-              for="email"
-              class="block mb-2 text-sm text-gray-600 dark:text-gray-400"
-              >Email Address</label
-            >
-            <input
-              type="email"
-              name="email"
-              id="email"
-              placeholder="you@company.com"
-              required
-              class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
-            />
-          </div>
-          <div class="mb-6">
-            <label for="phone" class="text-sm text-gray-600 dark:text-gray-400"
-              >Phone Number</label
-            >
-            <input
-              type="text"
-              name="phone"
-              id="phone"
-              placeholder="+1 (555) 1234-567"
-              required
-              class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
-            />
-          </div>
-          <div class="mb-6">
-            <label
-              for="message"
-              class="block mb-2 text-sm text-gray-600 dark:text-gray-400"
-              >Your Message</label
-            >
+			<!-- Who Uses Our Platform -->
+			<div class="audience-section">
+				<h2 class="text-2xl font-bold text-gray-800 dark:text-gray-200 mb-6">Who Relies on Our Data</h2>
+				<p class="text-gray-700 dark:text-gray-300 mb-4">
+					Data for Afghanistan serves a diverse, influential audience committed to understanding and improving Afghanistan's future:
+				</p>
+				
+				<div class="audience-box bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
+					<ol class="list-decimal list-inside space-y-2 text-gray-700 dark:text-gray-300">
+						<li><strong>Academic & Research Institutions </strong></li>
+						<li><strong>International Development Agencies</strong></li>
+						<li><strong>International Companies</strong></li>
+						<li><strong>Journalists & Media</strong></li>
+						<li><strong>Afghan Population</strong></li>
+						<li><strong>Afghan Diaspora</strong></li>
+					</ol>
+				</div>
+			</div>
 
-            <textarea
-              rows="5"
-              name="message"
-              id="message"
-              placeholder="Your Message"
-              class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
-              required
-            ></textarea>
-          </div>
-          <div class="mb-6">
-            <button
-              type="submit"
-              class="w-full px-3 py-4 text-white bg-green-400 rounded-md focus:bg-green-600 focus:outline-none"
-            >
-              Send Message
-            </button>
-          </div>
-          <p class="text-base text-center text-gray-400" id="result"></p>
-        </form>
-      </div>
-    </div>
-  </div>
-</div>
+			<!-- Data Quality -->
+			<div class="quality-section">
+				<h2 class="text-2xl font-bold text-gray-800 dark:text-gray-200 mb-6">Our Commitment to Quality</h2>
+				<div class="data-sources bg-blue-50 dark:bg-gray-800 p-6 rounded-lg">
+					<p class="text-gray-700 dark:text-gray-300 mb-3">
+						<strong>Trusted Data Sources:</strong> All visualizations are based on authoritative data sources such as The World Bank, United Nations, World Health Organization, Food and Agriculture Organization, The Office of the Special Inspector General for Afghanistan Reconstruction, and similar others.
+					</p>
+										<p class="text-gray-700 dark:text-gray-300">
+						<strong>Rigorous Methodology:</strong> Every visualization includes source and quality check, source citations, and licensing information under CC BY-ND-NC 4.0.
+					</p>
+				</div>
+			</div>
 
+			<!-- Sponsorship Benefits -->
+			<div class="benefits-section">
+				<h2 class="text-2xl font-bold text-gray-800 dark:text-gray-200 mb-6">Sponsorship Benefits</h2>
+				<p class="text-gray-700 dark:text-gray-300 mb-6">
+					As a sponsor, you will gain visibility among our engaged, relevant audience while supporting a mission-driven platform:
+				</p>
+				
+				<div class="benefits-grid grid grid-cols-1 md:grid-cols-3 gap-6">
+					<div class="benefit-card bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
+						<h3 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-3">Brand Recognition</h3>
+						<p class="text-gray-700 dark:text-gray-300">
+							Logo placement on our website pages
+						</p>
+					</div>
+					<div class="benefit-card bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
+						<h3 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-3">Targeted Exposure</h3>
+						<p class="text-gray-700 dark:text-gray-300">
+							Reach decision-makers, researchers, private firms, non-profit organizations, and local Afghans focused on the development of Afghanistan
+						</p>
+					</div>
+					<div class="benefit-card bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
+						<h3 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-3">Mission Alignment</h3>
+						<p class="text-gray-700 dark:text-gray-300">
+							Demonstrate your commitment to data transparency and evidence-based development
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<!-- Sponsorship Tiers -->
+			<div class="tiers-section">
+				<h2 class="text-2xl font-bold text-gray-800 dark:text-gray-200 mb-6">Sponsorship Levels</h2>
+				
+				<div class="tier-container grid grid-cols-1 md:grid-cols-2 gap-6">
+					<div class="tier-card border-2 border-gray-300 dark:border-gray-600 p-8 rounded-lg">
+						<div class="tier-name text-2xl font-bold text-gray-800 dark:text-gray-200 mb-6 text-center">Silver</div>
+						<ul class="tier-features space-y-3 text-gray-700 dark:text-gray-300">
+							<li class="pb-3 border-b border-gray-200 dark:border-gray-700">Logo on Sponsor page</li>
+							<li class="pb-3 border-b border-gray-200 dark:border-gray-700">Logo on Data page</li>
+						</ul>
+					</div>
+					
+					<div class="tier-card border-2 border-gray-300 dark:border-gray-600 p-8 rounded-lg">
+						<div class="tier-name text-2xl font-bold text-gray-800 dark:text-gray-200 mb-6 text-center">Gold</div>
+						<ul class="tier-features space-y-3 text-gray-700 dark:text-gray-300">
+							<li class="pb-3 border-b border-gray-200 dark:border-gray-700">All Silver benefits</li>
+							<li class="pb-3 border-b border-gray-200 dark:border-gray-700">Logo on Front page</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Contact Form -->
+		<div class="flex items-center bg-gray-50 dark:bg-gray-900 py-12">
+			<div class="container mx-auto">
+				<div class="max-w-md mx-auto my-10 bg-white dark:bg-gray-800 p-5 rounded-md shadow-sm">
+					<div class="text-center">
+						<h2 class="my-3 text-3xl font-semibold text-gray-700 dark:text-gray-200">
+							Contact Us
+						</h2>
+						<p class="text-gray-400 dark:text-gray-400">
+							If you are interested in becoming a sponsor, please fill out the following form.
+						</p>
+					</div>
+					<div class="m-7">
+						<form action="https://api.web3forms.com/submit" method="POST" id="form">
+							<input type="hidden" name="access_key" value="703fd816-e8c7-4f72-88d0-1dd91bc19610" />
+							<input type="hidden" name="subject" value="New Submission from Web3Forms" />
+							<input type="hidden" name="redirect" value="https://web3forms.com/success" />
+							<input type="checkbox" name="botcheck" id="" style="display: none;" />
+							<div class="mb-6">
+								<label for="name" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">
+									Full Name
+								</label>
+								<input
+									type="text"
+									name="name"
+									id="name"
+									placeholder="John Doe"
+									required
+									class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
+								/>
+							</div>
+							<div class="mb-6">
+								<label for="email" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">
+									Email Address
+								</label>
+								<input
+									type="email"
+									name="email"
+									id="email"
+									placeholder="you@company.com"
+									required
+									class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
+								/>
+							</div>
+							<div class="mb-6">
+								<label for="phone" class="text-sm text-gray-600 dark:text-gray-400">
+									Phone Number
+								</label>
+								<input
+									type="text"
+									name="phone"
+									id="phone"
+									placeholder="+1 (555) 1234-567"
+									required
+									class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
+								/>
+							</div>
+							<div class="mb-6">
+								<label for="message" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">
+									Your Message
+								</label>
+								<textarea
+									rows="5"
+									name="message"
+									id="message"
+									placeholder="Your Message"
+									class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
+									required
+								></textarea>
+							</div>
+							<div class="mb-6">
+								<button
+									type="submit"
+									class="w-full px-3 py-4 text-white bg-green-400 rounded-md focus:bg-green-600 focus:outline-none"
+								>
+									Send Message
+								</button>
+							</div>
+							<p class="text-base text-center text-gray-400" id="result"></p>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 </PageLayout>
