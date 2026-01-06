@@ -59,12 +59,12 @@ const cactusTech: { desc: string; href: string; title: string }[] = [
 ];
 ---
 
-<PageLayout meta={{ title: "Home", description: "Discover comprehensive data analysis on Afghanistan, covering topics like economy, education, healthcare, water, environment, natural resources. Our interactive charts and graphs provide insights into Afghanistan. Explore statistics and historical data to understand Afghanistan’s progress and challenges. Your go-to source for data on Afghanistan.", }}>
+<PageLayout meta={{ title: "Home", description: "Access comprehensive data analysis on Afghanistan, covering economy, education, healthcare, water, environment, natural resources. Our interactive charts and graphs provide insights into Afghanistan. Explore statistics and historical data to understand Afghanistan’s progress and challenges. Your go-to source for data on Afghanistan.", }}>
 	<section>
-		<h1 class="title mb-6">Your Gateway to Data Visualizations on Afghanistan</h1>
+		<h1 class="title mb-6">Your Gateway to Trusted Data Visualizations & Analysis on Afghanistan</h1>
 		<p class="mb-4">
 			Discover, learn, and engage with key topics on Afghanistan through our curated and 
-accessible data visualizations. Our platform's goal is to democratize data on Afghanistan, so that anyone can gain knowledge  
+accessible data visualizations and analysis. Our platform's goal is to democratize data on Afghanistan, so that anyone can gain knowledge  
 about Afghanistan, anytime and anywhere.
 		</p>
 	</section>
@@ -83,71 +83,125 @@ about Afghanistan, anytime and anywhere.
 		</ul>
 	</section>  -->
 
-     <!-- <Data Pages />    --> 
+     <!-- Data Categories Section -->
 	<section class="mt-16">
 		<h2 class="title mb-4 text-xl">Data Pages</h2>
-		<dl class="space-y-4">
-			{
-				cactusTech.map(({ desc, href, title }) => (
-					<div class="flex flex-col gap-2 sm:flex-row">
-						<dt>
-							<span class="flex">
-								<a class="cactus-link" href={href} rel="noopener noreferrer" >
-									{title}
-								</a>
-								:
-							</span>
-						</dt>
-						<dd>{desc}</dd>
-					</div>
-				))
-			}
-		</dl>
+		<p class="mb-6 text-gray-700 dark:text-gray-300">
+			Choose a data category to discover interactive visualizations and insights on Afghanistan.
+		</p>
+		
+		<div class="border-2 border-gray-300 dark:border-gray-600 rounded-lg p-6 bg-gray-50 dark:bg-gray-800">
+			<dl class="space-y-4">
+				{
+					cactusTech.map(({ desc, href, title }) => (
+						<div class="flex flex-col gap-2 sm:flex-row sm:items-center hover:bg-gray-100 dark:hover:bg-gray-800 p-2 rounded transition-colors">
+							<dt>
+								<span class="flex items-center">
+									<a class="cactus-link font-semibold" href={href} rel="noopener noreferrer">
+										{title}
+									</a>
+									<span class="ml-2">:</span>
+								</span>
+							</dt>
+							<dd class="text-gray-700 dark:text-gray-800">{desc}</dd>
+						</div>
+					))
+				}
+			</dl>
+		</div>
 	</section>
+
 
     <!-- <Sample Visualization />    --> 
   <section class="mt-16">
-		<h2 class="title mb-4 text-xl"> </h2>
+		<h2 class="title mb-4 text-xl">Featured Visualization</h2>
 
   <iframe title="The Sustainable Development Goals Scores (0-100), 2023 vs. 2010" aria-label="Arrow Plot" id="datawrapper-chart-DtZPY" src="https://datawrapper.dwcdn.net/DtZPY/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="490" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
-  
   </section>
 
-   <!-- <Sponsors />    --> 
-<section class="mt-16">
-		<h2 class="title mb-4 text-xl">Become a Sponsor</h2>
-<p class="mb-4">
-			Your sponsorship can help Data for Afghanistan grow. If you are interested in becoming a sponsor, please fill out this <a
-				aria-label="sponsorship form"
-				class="cactus-link inline-block"
-				href="https://dataforafghanistan.org/sponsor/"
-				rel="noreferrer"
-				target="_self">FORM</a>. Let's start the conversation!
-		</p>
-</section>
 
-<!-- <License />    --> 
-<section class="mt-16">
-		<h2 class="title mb-4 text-xl">Copyright License</h2>
-<p class="mb-4">
+<!-- Why Data for Afghanistan -->
+	<section class="mt-16">
+		<h2 class="title mb-6 text-xl">Why Data for Afghanistan?</h2>
+		
+		<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+			<div class="border-2 border-gray-300 dark:border-gray-600 p-6 rounded-lg bg-gray-50 dark:bg-gray-800">
+				<h3 class="text-lg font-semibold mb-3 text-gray-800 dark:text-gray-800">Verified Sources</h3>
+				<p class="text-gray-700 dark:text-gray-300">
+					All data sourced from authoritative organizations like the World Bank and United Nations
+				</p>
+			</div>
+			
+			<div class="border-2 border-gray-300 dark:border-gray-600 p-6 rounded-lg bg-gray-50 dark:bg-gray-800">
+				<h3 class="text-lg font-semibold mb-3 text-gray-800 dark:text-gray-800">Interactive Visualizations</h3>
+				<p class="text-gray-700 dark:text-gray-300">
+					Easy-to-understand charts and graphs that make complex data accessible
+				</p>
+			</div>
 
-  All data visualizations (i.e., the material) of Data for Afghanistan are licensed under the Creative Commons Attribution-No Derivatives-Non Commercial 4.0 International License
-(CC BY-ND-NC 4.0). 
-			<p>You are free to:</p>
-		<ul>
-			<li><b>Share</b> — copy and redistribute the material in any medium or format for non-commercial purposes.</li>
-		</ul>
-    <br>
-    Under the following terms:
-		<ul>
-			<li><b>Attribution</b> — When sharing the material, you must give appropriate credit 
-to Data for Afghanistan by providing license information along with references. We provide a reference and license format under each visualization.</li>
-			<li><b>No Derivatives</b> — The material should be shared as it is, without any modifications.</li>
-			<li><b>Non-Commercial</b> — You may not use the material for commercial purposes.</li>
-		</ul>
+			<div class="border-2 border-gray-300 dark:border-gray-600 p-6 rounded-lg bg-gray-50 dark:bg-gray-800">
+				<h3 class="text-lg font-semibold mb-3 text-gray-800 dark:text-gray-800">Timely Analysis</h3>
+				<p class="text-gray-700 dark:text-gray-300">
+					Quarterly economic reporting and periodic commentaries on Afghanistan's development
+				</p>
+			</div>
+			
+			<div class="border-2 border-gray-300 dark:border-gray-600 p-6 rounded-lg bg-gray-50 dark:bg-gray-800">
+				<h3 class="text-lg font-semibold mb-3 text-gray-800 dark:text-gray-800">Free & Accessible</h3>
+				<p class="text-gray-700 dark:text-gray-300">
+					Democratizing data for anyone, anywhere, under Creative Commons license
+				</p>
+			</div>
+			
+		</div>
+	</section>
+
+
+   <!-- Sponsor Section -->
+	<section class="mt-16">
+		<h2 class="title mb-6 text-xl">Support Our Mission</h2>
+		
+		<div class="border-2 border-gray-300 dark:border-gray-600 p-8 rounded-lg bg-gray-50 dark:bg-gray-800">
+			<p class="text-gray-700 dark:text-gray-800 mb-6 text-lg">
+				Increase your brand recognition by becoming a silver or gold sponsor of Data for Afghanistan, which receives <strong>2,000+</strong> views per month across <strong>18+</strong> countries. Our website holds <strong>1st Page Google Ranking</strong> for "Afghanistan Data" keywords.
 			</p>
-</section>
+			
+			<div class="text-center">
+				<a 
+					href="https://dataforafghanistan.org/sponsor/" 
+					class="inline-block px-8 py-3 bg-green-400 text-white font-semibold rounded-md hover:bg-green-600 transition-colors"
+				>
+					Become a Sponsor
+				</a>
+			</div>
+		</div>
+	</section>
+
+
+<!-- Copyright License -->
+	<section class="mt-16">
+		<h2 class="title mb-4 text-xl">Copyright License</h2>
+		
+		<div class="border-2 border-gray-300 dark:border-gray-600 p-6 rounded-lg bg-gray-50 dark:bg-gray-800">
+			<p class="mb-4 text-gray-700 dark:text-gray-800">
+				All data visualizations (i.e., the material) of Data for Afghanistan are licensed under the Creative Commons Attribution-No Derivatives-Non Commercial 4.0 International License (CC BY-ND-NC 4.0).
+			</p>
+			
+			<p class="mb-2 font-semibold text-gray-800 dark:text-gray-800">You are free to:</p>
+			<ul class="list-disc pl-6 mb-4 space-y-1 text-gray-700 dark:text-gray-800">
+				<li><strong>Share</strong> — copy and redistribute the material in any medium or format for non-commercial purposes.</li>
+			</ul>
+			
+			<p class="mb-2 font-semibold text-gray-800 dark:text-gray-800">Under the following terms:</p>
+			<ul class="list-disc pl-6 space-y-2 text-gray-700 dark:text-gray-800">
+				<li><strong>Attribution</strong> — When sharing the material, you must give appropriate credit to Data for Afghanistan by providing license information along with references. We provide a reference and license format under each visualization.</li>
+				<li><strong>No Derivatives</strong> — The material should be shared as it is, without any modifications.</li>
+				<li><strong>Non-Commercial</strong> — You may not use the material for commercial purposes.</li>
+			</ul>
+		</div>
+	</section>
+
 
 
 </PageLayout>
