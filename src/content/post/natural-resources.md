@@ -1,8 +1,8 @@
 ---
 title: "Natural Resources in Afghanistan"
-description: "Afghanistan datasets and data visualizations about natural resources, food, agriculture"
+description: "Afghanistan datasets and data visualizations about natural resources, food, agriculture, mineral resources"
 publishDate: "05 Aug 2024"
-tags: ["food", "agriculture", "natural resources", "Afghanistan", "data"]
+tags: ["food", "agriculture", "natural resources", "rare-earth minerals", "minerals", "Afghanistan", "data"]
 ---
 
 
@@ -39,5 +39,42 @@ refers to the agriculture, forestry, fishing, and hunting sector." /></noscript>
 </blockquote>
 
 ---
+
+## 3. Industrial Minerals
+
+<div style="min-height:632px" id="datawrapper-vis-SobRb"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/SobRb/embed.js" charset="utf-8" data-target="#datawrapper-vis-SobRb"></script><noscript><img src="https://datawrapper.dwcdn.net/SobRb/full.png" alt="Afghanistan mineral resources, resource estimates, and deposit types." /></noscript></div>
+<br />
+
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2026). Afghanistan mineral resources, industrial minerals [Data visualization]. https://dataforafghanistan.org/posts/natural-resources/#3-industrial-minerals. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
+---
+
+## 4. Building Materials
+
+<div style="min-height:606px" id="datawrapper-vis-TIzjW"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TIzjW/embed.js" charset="utf-8" data-target="#datawrapper-vis-TIzjW"></script><noscript><img src="https://datawrapper.dwcdn.net/TIzjW/full.png" alt="Afghanistan mineral resources, resource estimates, and deposit types." /></noscript></div>
+<br />
+
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2026). Afghanistan mineral resources, building materials [Data visualization]. https://dataforafghanistan.org/posts/natural-resources/#4-building-materials. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
+---
+
+## 5. Metals
+
+<div style="min-height:606px" id="datawrapper-vis-Oair4"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/Oair4/embed.js" charset="utf-8" data-target="#datawrapper-vis-Oair4"></script><noscript><img src="https://datawrapper.dwcdn.net/Oair4/full.png" alt="Afghanistan mineral resources, resource estimates, and deposit types." /></noscript></div>
+<br />
+
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2026). Afghanistan mineral resources, metals [Data visualization]. https://dataforafghanistan.org/posts/natural-resources/#5-metals. Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
 
 ---
