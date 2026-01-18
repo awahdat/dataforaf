@@ -157,7 +157,166 @@ about Afghanistan, anytime and anywhere.
 	</section>
 
 
-   <!-- Sponsor Section -->
+<!-- Newsletter Signup Section -->
+<section class="mt-16">
+	<h2 class="title mb-4 text-xl">Stay Informed</h2>
+	<p class="mb-6 text-gray-700 dark:text-gray-300">
+		Subscribe to receive updates on new visualizations, monthly reports, and periodic commentaries on Afghanistan's development.
+	</p>
+	
+	<div class="border-2 border-gray-300 dark:border-gray-600 rounded-lg p-8 bg-gray-50 dark:bg-gray-800">
+		<div class="max-w-2xl mx-auto">
+			<div class="text-center mb-6">
+				<h3 class="text-2xl font-semibold text-gray-700 dark:text-gray-200 mb-2">
+					Join Our Newsletter
+				</h3>
+				<p class="text-sm text-gray-500 dark:text-gray-400">
+					Get the latest data insights delivered to your inbox
+				</p>
+			</div>
+			
+			<form action="https://api.web3forms.com/submit" method="POST" id="newsletter-form">
+				<input type="hidden" name="access_key" value="ba9c0164-3664-4e28-b842-f2abfb3124c9" />
+				<input type="hidden" name="subject" value="Newsletter Signup-DfA" />
+				<input type="hidden" name="redirect" value="https://dataforafghanistan.org/" />
+				<input type="checkbox" name="botcheck" id="" style="display: none;" />
+				
+				<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+					<!-- Email (Required) -->
+					<div class="md:col-span-2">
+						<label for="newsletter-email" class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
+							Email Address *
+						</label>
+						<input
+							type="email"
+							name="email"
+							id="newsletter-email"
+							placeholder="you@example.com"
+							required
+							class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
+						/>
+					</div>
+					
+					<!-- Name (Optional) -->
+					<div>
+						<label for="newsletter-name" class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
+							Name (Optional)
+						</label>
+						<input
+							type="text"
+							name="name"
+							id="newsletter-name"
+							placeholder="Full Name"
+							class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
+						/>
+					</div>
+										
+					<!-- Affiliation  -->
+					<div class="md:col-span-2">
+						<label for="newsletter-affiliation" class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
+							Affiliation
+						</label>
+						<select
+							name="affiliation"
+							id="newsletter-affiliation"
+							required
+							class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
+						>
+							<option value="">Select your affiliation</option>
+							<option value="academic">Academic/Student</option>
+							<option value="ngo">Humanitarian Agency</option>
+							<option value="journalist">Journalist/Media</option>
+							<option value="policy">Policy Maker</option>
+							<option value="diaspora">Afghan Diaspora</option>
+							<option value="other">Other</option>
+						</select>
+					</div>
+				</div>
+				
+				<!-- Privacy Notice -->
+				<p class="text-xs text-gray-500 dark:text-gray-400 mb-4">
+					We respect your privacy. Your information will only be used to send you updates about Data for Afghanistan. You can unsubscribe at any time.
+				</p>
+				
+				<!-- Submit Button -->
+				<div class="mb-4">
+					<button
+						type="submit"
+						class="w-full px-4 py-3 text-white bg-green-400 rounded-md hover:bg-green-600 focus:bg-green-600 focus:outline-none font-semibold transition-colors"
+					>
+						Subscribe to Our Newsletter
+					</button>
+				</div>
+				
+				<p class="text-sm text-center text-gray-400" id="newsletter-result"></p>
+			</form>
+		</div>
+	</div>
+</section>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    /* ---------- Reset newsletter form on page load ---------- */
+    const newsletterForm = document.getElementById("newsletter-form");
+    if (newsletterForm) {
+        newsletterForm.reset();
+    }
+
+    /* ---------- Newsletter form handling ---------- */
+    const resultElement = document.getElementById("newsletter-result");
+
+    if (newsletterForm) {
+        newsletterForm.addEventListener("submit", function (e) {
+            e.preventDefault();
+
+            const formData = new FormData(newsletterForm);
+            const button = newsletterForm.querySelector('button[type="submit"]');
+            const originalText = button.textContent;
+
+            button.textContent = "Subscribing...";
+            button.disabled = true;
+
+            fetch("https://api.web3forms.com/submit", {
+                method: "POST",
+                body: formData
+            })
+            .then(async response => {
+                const json = await response.json();
+
+                if (response.ok) {
+                    resultElement.textContent = "✓ Successfully subscribed!";
+                    resultElement.className = "text-sm text-center text-green-500";
+
+                    // Reset again after successful submission
+                    newsletterForm.reset();
+                } else {
+                    resultElement.textContent = json.message || "Something went wrong. Please try again.";
+                    resultElement.className = "text-sm text-center text-red-500";
+                }
+            })
+            .catch(() => {
+                resultElement.textContent = "Error: Unable to subscribe. Please try again.";
+                resultElement.className = "text-sm text-center text-red-500";
+            })
+            .finally(() => {
+                button.textContent = originalText;
+                button.disabled = false;
+            });
+        });
+    }
+});
+</script>
+
+
+<!-- <Sample Visualization />    --> 
+  <section class="mt-16">
+		<h2 class="title mb-4 text-xl">Featured Visualization: Sustainable Development Progress in Afghanistan</h2>
+
+  <iframe title="The Sustainable Development Goals Scores (0-100), 2023 vs. 2010" aria-label="Arrow Plot" id="datawrapper-chart-DtZPY" src="https://datawrapper.dwcdn.net/DtZPY/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="490" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+  </section>
+
+<!-- Sponsor Section -->
 	<section class="mt-16">
 		<h2 class="title mb-6 text-xl">Support Our Mission</h2>
 		
@@ -176,15 +335,6 @@ about Afghanistan, anytime and anywhere.
 			</div>
 		</div>
 	</section>
-
-
-<!-- <Sample Visualization />    --> 
-  <section class="mt-16">
-		<h2 class="title mb-4 text-xl">Featured Visualization: Sustainable Development Progress in Afghanistan</h2>
-
-  <iframe title="The Sustainable Development Goals Scores (0-100), 2023 vs. 2010" aria-label="Arrow Plot" id="datawrapper-chart-DtZPY" src="https://datawrapper.dwcdn.net/DtZPY/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="490" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-  </section>
 
 <!-- Copyright License -->
 	<section class="mt-16">
