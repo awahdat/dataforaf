@@ -124,64 +124,60 @@ const meta = {
 			</div>
 		</div>
 
-		<!-- Contact Form -->
-		<div class="flex items-center bg-gray-50 dark:bg-gray-900 py-12">
-			<div class="container mx-auto">
-				<div class="max-w-md mx-auto my-10 bg-white dark:bg-gray-800 p-5 rounded-md shadow-sm">
-					<div class="text-center">
-						<h2 class="my-3 text-3xl font-semibold text-gray-700 dark:text-gray-200">
-							Contact Us
-						</h2>
-						<p class="text-gray-400 dark:text-gray-400">
-							If you are interested in becoming a sponsor, please fill out the following form.
-						</p>
-					</div>
-					<div class="m-7">
+
+<!-- Sponsor Form -->
+<div class="rounded-lg p-8 bg-gray-50 dark:bg-gray-800">
+		<div class="max-w-2xl mx-auto">
+			<div class="text-center mb-6">
+				<h3 class="text-2xl font-semibold text-gray-700 dark:text-gray-200 mb-2">
+					Contact Us
+				</h3>
+				<p class="text-sm text-gray-500 dark:text-gray-400">
+					If you are interested in becoming a sponsor, please fill out the following form.
+				</p>
+			</div>
+
 						<form action="https://api.web3forms.com/submit" method="POST" id="form">
 							<input type="hidden" name="access_key" value="703fd816-e8c7-4f72-88d0-1dd91bc19610" />
-							<input type="hidden" name="subject" value="New Submission from Web3Forms" />
-							<input type="hidden" name="redirect" value="https://web3forms.com/success" />
+							<input type="hidden" name="subject" value="Sponsor Message-DfA" />
+							<input type="hidden" name="redirect" value="https://dataforafghanistan.org/sponsor/" />
 							<input type="checkbox" name="botcheck" id="" style="display: none;" />
-							<div class="mb-6">
-								<label for="name" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">
-									Full Name
-								</label>
-								<input
-									type="text"
-									name="name"
-									id="name"
-									placeholder="John Doe"
-									required
-									class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
-								/>
-							</div>
-							<div class="mb-6">
-								<label for="email" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">
-									Email Address
-								</label>
-								<input
-									type="email"
-									name="email"
-									id="email"
-									placeholder="you@company.com"
-									required
-									class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
-								/>
-							</div>
-							<div class="mb-6">
-								<label for="phone" class="text-sm text-gray-600 dark:text-gray-400">
-									Phone Number
-								</label>
-								<input
-									type="text"
-									name="phone"
-									id="phone"
-									placeholder="+1 (555) 1234-567"
-									required
-									class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
-								/>
-							</div>
-							<div class="mb-6">
+							
+							<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+					<!-- Name (Required) -->
+					<div class="md:col-span-2">
+						<label for="name" class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
+							Full Name
+						</label>
+						<input
+							type="text"
+							name="name"
+							id="name"
+							placeholder="John Doe"
+							required
+							class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
+						/>
+					</div>
+					
+
+					<!-- Email (Required) -->
+					<div class="md:col-span-2">
+						<label for="email" class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
+							Email Address
+						</label>
+						<input
+							type="email"
+							name="email"
+							id="email"
+							placeholder="you@example.com"
+							required
+							class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
+						/>
+					</div>
+
+															
+					<!-- Message (Required) -->
+					<div class="md:col-span-2">
 								<label for="message" class="block mb-2 text-sm text-gray-600 dark:text-gray-400">
 									Your Message
 								</label>
@@ -194,19 +190,74 @@ const meta = {
 									required
 								></textarea>
 							</div>
-							<div class="mb-6">
-								<button
-									type="submit"
-									class="w-full px-3 py-4 text-white bg-green-400 rounded-md focus:bg-green-600 focus:outline-none"
-								>
-									Send Message
-								</button>
-							</div>
-							<p class="text-base text-center text-gray-400" id="result"></p>
-						</form>
-					</div>
+
+				<!-- Submit Button -->
+				<div class="mb-4">
+					<button
+						type="submit"
+						class="w-full px-4 py-3 text-white bg-green-400 rounded-md hover:bg-green-600 focus:bg-green-600 focus:outline-none font-semibold transition-colors"
+					>
+						Send Message
+					</button>
 				</div>
-			</div>
+
+				<p class="text-sm text-center text-gray-400" id="result"></p>
+				</form>
 		</div>
 	</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    /* ---------- Reset newsletter form on page load ---------- */
+    const newsletterForm = document.getElementById("form");
+    if (newsletterForm) {
+        newsletterForm.reset();
+    }
+    /* ---------- Newsletter form handling ---------- */
+    const resultElement = document.getElementById("result");
+
+    if (newsletterForm) {
+        newsletterForm.addEventListener("submit", function (e) {
+            e.preventDefault();
+
+            const formData = new FormData(newsletterForm);
+            const button = newsletterForm.querySelector('button[type="submit"]');
+            const originalText = button.textContent;
+
+            button.textContent = "Subscribing...";
+            button.disabled = true;
+
+            fetch("https://api.web3forms.com/submit", {
+                method: "POST",
+                body: formData
+            })
+            .then(async response => {
+                const json = await response.json();
+
+                if (response.ok) {
+                    resultElement.textContent = "✓ Message sent. Thank you!";
+                    resultElement.className = "text-sm text-center text-green-500";
+
+                    // Reset again after successful submission
+                    newsletterForm.reset();
+                } else {
+                    resultElement.textContent = json.message || "Something went wrong. Please try again.";
+                    resultElement.className = "text-sm text-center text-red-500";
+                }
+            })
+            .catch(() => {
+                resultElement.textContent = "Error: Unable to subscribe. Please try again.";
+                resultElement.className = "text-sm text-center text-red-500";
+            })
+            .finally(() => {
+                button.textContent = originalText;
+                button.disabled = false;
+            });
+        });
+    }
+});
+</script>
+
+
+</div>
 </PageLayout>
