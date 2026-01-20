@@ -1,0 +1,314 @@
+---
+import aboutImg from "@/assets/about-astro.png";
+import PageLayout from "@/layouts/Base.astro";
+import { Image } from "astro:assets";
+
+const meta = {
+	description: "Media and press resources for Data for Afghanistan. Download data visualizations, access press kit, and contact us for interviews.",
+	title: "Media & Press",
+};
+---
+
+<PageLayout meta={meta}>
+	<div class="space-y-6">
+		<h1 class="title">Media & Press</h1>
+		<p>
+			Welcome to the Data for Afghanistan media resource center. We provide journalists, researchers, and media professionals with high-quality data visualizations and insights on Afghanistan.
+		</p>
+
+		<!-- Media Info Section -->
+		<div class="media-info-section space-y-8 my-12">
+			
+			<!-- For Journalists Section -->
+			<div class="journalists-section">
+				<h2 class="text-2xl font-bold text-gray-800 dark:text-gray-800 mb-6">For Media & Press</h2>
+				
+				<div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg mb-6">
+					<p class="text-gray-700 dark:text-gray-300 mb-4">
+						Data for Afghanistan provides evidence-based visualizations that can enhance your reporting on Afghanistan. Our data comes from authoritative sources and is freely available under Creative Commons license for non-commercial use with proper attribution.
+					</p>
+					<p class="text-gray-700 dark:text-gray-300">
+						<strong>Quick Facts:</strong> All visualizations include source citations, methodology notes, and licensing information. Data visualizations and all other reports are updated when latest data become available.
+					</p>
+				</div>
+			</div>
+
+			<!-- How to Use Our Data -->
+			<div class="usage-section">
+				<h2 class="text-2xl font-bold text-gray-800 dark:text-gray-800 mb-6">How to Use Our Data</h2>
+				
+				<div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
+					<ol class="list-decimal list-inside space-y-3 text-gray-700 dark:text-gray-300">
+						<li><strong>Browse Our Categories:</strong> Explore data on Economy, Health, Education, Environment, Conflict, Natural Resources, People, and Development Goals.</li>
+						<li><strong>Download Visualizations:</strong> Each visualization can be downloaded in high resolution for print or web use.</li>
+						<li><strong>Attribution Required:</strong> When using our visualizations, please credit "Data for Afghanistan" with a link to our website, or just use the citation beneath each visualization.</li>
+						<li><strong>Verification:</strong> All data sources are listed beneath each visualization for fact-checking purposes.</li>
+					</ol>
+				</div>
+			</div>
+
+			<!-- Data Categories for Quick Access -->
+			<div class="categories-section">
+				<h2 class="text-2xl font-bold text-gray-800 dark:text-gray-800 mb-6">Quick Access to Data Categories</h2>
+				
+				<div class="border-2 border-gray-300 dark:border-gray-600 rounded-lg p-6 bg-gray-50 dark:bg-gray-800">
+					<ul class="space-y-3 text-gray-700 dark:text-gray-300">
+						<li><a href="https://dataforafghanistan.org/posts/people/" class="cactus-link font-semibold dark:text-gray-300 hover:underline">People</a> → Population, Age Distribution</li>
+						<li><a href="https://dataforafghanistan.org/posts/economy/" class="cactus-link font-semibold dark:text-gray-300 hover:underline">Economy</a> → Poverty, Unemployment, Life Satisfaction</li>
+						<li><a href="https://dataforafghanistan.org/posts/health/" class="cactus-link font-semibold dark:text-gray-300 hover:underline">Health</a> → Food Insecurity, Life Expectancy, Mortality</li>
+						<li><a href="https://dataforafghanistan.org/posts/education/" class="cactus-link font-semibold dark:text-gray-300 hover:underline">Education</a> → Completion, Attainment, Literacy, Government Spending</li>
+						<li><a href="https://dataforafghanistan.org/posts/water-sanitation/" class="cactus-link font-semibold dark:text-gray-300 hover:underline">Water & Sanitation</a> → Water Use, Sanitation Use.</li>
+						<li><a href="https://dataforafghanistan.org/posts/environment/" class="cactus-link font-semibold dark:text-gray-300 hover:underline">Environment</a> → Air Pollution, Natural Disasters</li>
+						<li><a href="https://dataforafghanistan.org/posts/natural-resources/" class="cactus-link font-semibold dark:text-gray-300 hover:underline">Natural Resources</a> → Agriculture, Food Yield, Industrial Minerals, Metals</li>
+						<li><a href="https://dataforafghanistan.org/posts/conflict/" class="cactus-link font-semibold dark:text-gray-300 hover:underline">Conflict</a> → Airstrikes, Civilian Casualties</li>
+						<li><a href="https://dataforafghanistan.org/posts/sdgs/" class="cactus-link font-semibold dark:text-gray-300 hover:underline">SDGs</a> → United Nations Sustainable Development Goals</li>
+					</ul>
+				</div>
+			</div>
+
+			<!-- Attribution Guidelines -->
+			<div class="attribution-section">
+				<h2 class="text-2xl font-bold text-gray-800 dark:text-gray-800 mb-6">Attribution Guidelines</h2>
+				
+				<div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
+					<p class="text-gray-700 dark:text-gray-300 mb-4">
+						<strong>Proper Attribution Format:</strong>
+					</p>
+					
+					<div class="border-2 border-gray-300 dark:border-gray-600 rounded-lg p-4 bg-white dark:bg-gray-700 mb-4">
+						<p class="text-gray-700 dark:text-gray-300 font-mono text-sm">
+							Source: Data for Afghanistan (dataforafghanistan.org)<br>
+							License: CC BY-ND-NC 4.0
+						</p>
+					</div>
+					
+					<p class="text-gray-700 dark:text-gray-300 mb-3">
+						<strong>For Online Publications:</strong> Please include a hyperlink to our website when possible.
+					</p>
+					
+					<p class="text-gray-700 dark:text-gray-300">
+						<strong>For Print Publications:</strong> Use the citation provided at the end of each data visualization.
+					</p>
+				</div>
+			</div>
+
+			<!-- Press Kit -->
+			<div class="presskit-section">
+				<h2 class="text-2xl font-bold text-gray-800 dark:text-gray-800 mb-6">Press Kit</h2>
+				
+				<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+					<div class="benefit-card bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
+						<h3 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-3">About Data for Afghanistan</h3>
+						<p class="text-gray-700 dark:text-gray-300 mb-3">
+							Data for Afghanistan is a platform dedicated to democratizing access to data on Afghanistan, so that anyone can gain knowledge about Afghanistan.
+						</p>
+						<a href="https://dataforafghanistan.org/about/" class="text-green-600 dark:text-green-400 hover:underline font-semibold">Read Full About Page →</a>
+					</div>
+					
+					<div class="benefit-card bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
+						<h3 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-3">Key Statistics</h3>
+						<ul class="text-gray-700 dark:text-gray-300 space-y-2">
+							<li><strong>2,000+</strong> monthly views</li>
+							<li><strong>18+</strong> countries reached</li>
+							<li><strong>9</strong> data categories</li>
+							<li><strong>1st page</strong> Google ranking for "Afghanistan Data"</li>
+						</ul>
+					</div>
+					
+					<div class="benefit-card bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
+						<h3 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-3">Data Sources</h3>
+						<p class="text-gray-700 dark:text-gray-300">
+							World Bank, United Nations, WHO, UNESCO, FAO, SIGAR, UNICEF, and other authoritative international organizations.
+						</p>
+					</div>
+					
+					<div class="benefit-card bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
+						<h3 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-3">Update Frequency</h3>
+						<p class="text-gray-700 dark:text-gray-300">
+							Regular monthly or quarterly updates for data reports, with periodic commentaries and new visualizations added.
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<!-- Interview Requests -->
+			<div class="interview-section">
+				<h2 class="text-2xl font-bold text-gray-800 dark:text-gray-800 mb-6">Interview & Media Requests</h2>
+				
+				<div class="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg">
+					<p class="text-gray-700 dark:text-gray-300 mb-4">
+						For interview requests, commentary on Afghanistan data trends, or custom data analysis for your story, please contact us using the form below. We typically respond within 24-48 hours.
+					</p>
+					<p class="text-gray-700 dark:text-gray-300">
+						<strong>Best suited for:</strong> Data interpretation, trend analysis, and expert commentary on Afghanistan's economy and sustainable development.
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<!-- Media Contact Form -->
+		<section class="mt-16">
+			<div class="border-2 border-gray-300 dark:border-gray-600 rounded-lg p-8 bg-gray-50 dark:bg-gray-800">
+				<div class="max-w-2xl mx-auto">
+					<div class="text-center mb-6">
+						<h3 class="text-2xl font-semibold text-gray-700 dark:text-gray-200 mb-2">
+							Media Contact Form
+						</h3>
+						<p class="text-sm text-gray-500 dark:text-gray-400">
+							For press inquiries and interview requests
+						</p>
+					</div>
+
+					<form action="https://api.web3forms.com/submit" method="POST" id="media-form">
+						<input type="hidden" name="access_key" value="77d30c1d-6e02-4a83-ba6f-47de098bc7b6" />
+						<input type="hidden" name="subject" value="Media Inquiry-DfA" />
+						<input type="hidden" name="redirect" value="https://dataforafghanistan.org/media/" />
+						<input type="checkbox" name="botcheck" id="" style="display: none;" />
+						
+						<div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+							<!-- Name (Required) -->
+							<div class="md:col-span-2">
+								<label for="media-name" class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
+									Full Name
+								</label>
+								<input
+									type="text"
+									name="name"
+									id="media-name"
+									placeholder="John Doe"
+									required
+									class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
+								/>
+							</div>
+							
+							<!-- Email (Required) -->
+							<div>
+								<label for="media-email" class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
+									Email Address
+								</label>
+								<input
+									type="email"
+									name="email"
+									id="media-email"
+									placeholder="you@newsoutlet.com"
+									required
+									class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
+								/>
+							</div>
+							
+							<!-- Organization (Required) -->
+							<div>
+								<label for="media-org" class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
+									News Organization
+								</label>
+								<input
+									type="text"
+									name="organization"
+									id="media-org"
+									placeholder="BBC, Reuters, etc."
+									required
+									class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
+								/>
+							</div>
+							
+							<!-- Request Type (Required) -->
+							<div class="md:col-span-2">
+								<label for="media-type" class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
+									Type of Request
+								</label>
+								<select
+									name="request_type"
+									id="media-type"
+									required
+									class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
+								>
+									<option value="">Select request type</option>
+									<option value="interview">Interview Request</option>
+									<option value="commentary">Expert Commentary</option>
+									<option value="data-assistance">Data Assistance</option>
+									<option value="fact-check">Fact-Checking</option>
+									<option value="other">Other</option>
+								</select>
+							</div>
+							
+														
+							<!-- Message (Required) -->
+							<div class="md:col-span-2">
+								<label for="media-message" class="block mb-2 text-sm font-medium text-gray-600 dark:text-gray-400">
+									Your Message
+								</label>
+								<textarea
+									rows="5"
+									name="message"
+									id="media-message"
+									placeholder="Please describe your inquiry..."
+									class="w-full px-3 py-2 placeholder-gray-300 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-100 focus:border-indigo-300 dark:bg-gray-700 dark:text-white dark:placeholder-gray-500 dark:border-gray-600 dark:focus:ring-gray-900 dark:focus:border-gray-500"
+									required
+								></textarea>
+							</div>
+						</div>
+
+						<!-- Submit Button -->
+						<div class="mb-4">
+							<button
+								type="submit"
+								class="w-full px-4 py-3 text-white bg-green-400 rounded-md hover:bg-green-600 focus:bg-green-600 focus:outline-none font-semibold transition-colors"
+							>
+								Send Media Request
+							</button>
+						</div>
+
+						<p class="text-sm text-center text-gray-400" id="media-result"></p>
+					</form>
+				</div>
+			</div>
+		</section>
+
+		<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			const mediaForm = document.getElementById("media-form");
+			const resultElement = document.getElementById("media-result");
+
+			if (mediaForm) {
+				mediaForm.reset();
+
+				mediaForm.addEventListener("submit", function (e) {
+					e.preventDefault();
+
+					const formData = new FormData(mediaForm);
+					const button = mediaForm.querySelector('button[type="submit"]');
+					const originalText = button.textContent;
+
+					button.textContent = "Sending...";
+					button.disabled = true;
+
+					fetch("https://api.web3forms.com/submit", {
+						method: "POST",
+						body: formData
+					})
+					.then(async response => {
+						const json = await response.json();
+
+						if (response.ok) {
+							resultElement.textContent = "✓ Message sent. We'll respond within 24-48 hours.";
+							resultElement.className = "text-sm text-center text-green-500";
+							mediaForm.reset();
+						} else {
+							resultElement.textContent = json.message || "Something went wrong. Please try again.";
+							resultElement.className = "text-sm text-center text-red-500";
+						}
+					})
+					.catch(() => {
+						resultElement.textContent = "Error: Unable to send. Please try again.";
+						resultElement.className = "text-sm text-center text-red-500";
+					})
+					.finally(() => {
+						button.textContent = originalText;
+						button.disabled = false;
+					});
+				});
+			}
+		});
+		</script>
+	</div>
+</PageLayout>
