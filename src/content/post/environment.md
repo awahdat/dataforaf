@@ -2,7 +2,7 @@
 title: "Environment in Afghanistan"
 description: "Afghanistan datasets and data visualizations about environmental quality and natural disasters"
 publishDate: "03 Aug 2024"
-tags: ["environment", "pollution", "natural disasters", "Afghanistan", "data"]
+tags: ["environment", "pollution", "natural disasters", "temperature", "precipitation", "Afghanistan", "data"]
 ---
 
 
@@ -88,4 +88,43 @@ tags: ["environment", "pollution", "natural disasters", "Afghanistan", "data"]
 </blockquote>
 
 ---
+
+## 3. Precipitation
+
+<div style="min-height:1105px" id="datawrapper-vis-hoBXe"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/hoBXe/embed.js" charset="utf-8" data-target="#datawrapper-vis-hoBXe"></script><noscript><img src="https://datawrapper.dwcdn.net/hoBXe/full.png" alt="Provincial average annual precipitation in Afghanistan since 1950." /></noscript></div>
+<br />
+<ul>
+  <li>Most provinces show a gradual decline in average annual precipitation from the 1950s–1970s to the 2000s–2020s, indicating a broad intensification of drought conditions over time. The decline is particularly noticeable in southern and western provinces such as Hilmand, Kandahar, Farah, Nimroz, Uruzgan, and Hirat, where already low rainfall levels have fallen further in recent decades.</li>
+  <li>Eastern and northeastern provinces consistently receive the highest rainfall, with Kunar and Nuristan standing out as the wettest, followed by Khost, Nangarhar, Paktya, Laghman, and Badakhshan. </li>
+  <li>The driest conditions are persistently observed in the southwest and south, especially Nimroz, Hilmand, Farah, Kandahar, and Zabul, where average annual precipitation often remains below 20–25 mm in recent decades. These provinces exhibit both low baseline rainfall and limited recovery over time, making them more vulnerable to chronic drought.</li>
+</ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2026). Provincial average annual precipitation in Afghanistan since 1950 [Data visualization]. https://dataforafghanistan.org/posts/environment/#3-precipitation Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
+---
+
+
+---
+
+## 4. Temperature
+
+<div style="min-height:1105px" id="datawrapper-vis-uyx0P"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/uyx0P/embed.js" charset="utf-8" data-target="#datawrapper-vis-uyx0P"></script><noscript><img src="https://datawrapper.dwcdn.net/uyx0P/full.png" alt="Provincial average annual temperature in Afghanistan since 1950." /></noscript></div>
+<br />
+<ul>
+  <li>Looking at provincial average annual temperatures from 1950-2023, provinces in the southern, western, and central parts of Afghanistan have become relatively hotter. This increase in temperature is easily noticeable, with hotter years (darker shades) appearing more frequently since the late 1990s.</li>
+  <li>Since 1950, Afghanistan’s coldest conditions have persistently been concentrated in the northern and northeastern provinces, particularly Badakhshan, Panjsher, Nuristan, and Bamyan. </li>
+  <li>Jawzjan, Kunduz, Kandahar, Farah, Hilmand, and Nimroz have been the hottest provinces since 1950.</li>
+  <li>The following provinces have been facing relatively hotter years more frequently: Samangan, Logar, Paktya, Takhar, Paktika, Uruzgan, Faryab, Nangarhar, and Balkh.</li>
+</ul>
+
+<p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
+<blockquote>
+<p>Data for Afghanistan. (2026). Provincial average annual temperature in Afghanistan since 1950 [Data visualization]. https://dataforafghanistan.org/posts/environment/#4-temperature Licensed under CC BY-ND-NC 4.0.</p>
+</blockquote>
+
+---
+
 
