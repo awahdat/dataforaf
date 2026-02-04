@@ -106,9 +106,6 @@ tags: ["environment", "pollution", "natural disasters", "temperature", "precipit
 
 ---
 
-
----
-
 ## 4. Temperature
 
 <div style="min-height:1105px" id="datawrapper-vis-uyx0P"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/uyx0P/embed.js" charset="utf-8" data-target="#datawrapper-vis-uyx0P"></script><noscript><img src="https://datawrapper.dwcdn.net/uyx0P/full.png" alt="Provincial average annual temperature in Afghanistan since 1950." /></noscript></div>
