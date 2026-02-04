@@ -111,10 +111,9 @@ tags: ["environment", "pollution", "natural disasters", "temperature", "precipit
 <div style="min-height:1105px" id="datawrapper-vis-uyx0P"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/uyx0P/embed.js" charset="utf-8" data-target="#datawrapper-vis-uyx0P"></script><noscript><img src="https://datawrapper.dwcdn.net/uyx0P/full.png" alt="Provincial average annual temperature in Afghanistan since 1950." /></noscript></div>
 <br />
 <ul>
-  <li>Looking at provincial average annual temperatures from 1950-2023, provinces in the southern, western, and central parts of Afghanistan have become relatively hotter. This increase in temperature is easily noticeable, with hotter years (darker shades) appearing more frequently since the late 1990s.</li>
-  <li>Since 1950, Afghanistan’s coldest conditions have persistently been concentrated in the northern and northeastern provinces, particularly Badakhshan, Panjsher, Nuristan, and Bamyan. </li>
-  <li>Jawzjan, Kunduz, Kandahar, Farah, Hilmand, and Nimroz have been the hottest provinces since 1950.</li>
-  <li>The following provinces have been facing relatively hotter years more frequently: Samangan, Logar, Paktya, Takhar, Paktika, Uruzgan, Faryab, Nangarhar, and Balkh.</li>
+  <li>All provinces exhibit a clear increase in average temperatures from the 1950s–1970s to 2010–2023, indicating nationwide warming of roughly 1–2 °C or more over the period. The strongest warming is observed in already hot southern and western provinces such as Nimroz, Hilmand, Kandahar, Farah, and Zabul, intensifying heat stress and drought risk.</li>
+  <li>Nimroz, Hilmand, Kandahar, Farah, and Zabul are consistently the warmest provinces, with recent annual average temperatures commonly exceeding 20 °C. These areas combine high baseline temperatures with sustained warming, making them particularly vulnerable to evapotranspiration-driven water scarcity. </li>
+  <li>The coldest conditions persist in high-elevation northern and northeastern provinces, especially Badakhshan, Panjsher, Nuristan, and Bamyan, where long-run averages remain near or below 0 °C despite noticeable warming. Even in these regions, rising temperatures suggest increasing glacial melt and seasonal hydrological changes from long-term climate pressure.</li>
 </ul>
 
 <p><em><strong>&emsp;&ensp;Cite this work:</strong></em></p>
